@@ -1,0 +1,2200 @@
+{
+  "R02/N/1AB12/PT": {
+    "Description": "Delivery Box Carton for AB12 404 x 325 x 895mm",
+    "Supplier": "Abbe Corrugated Pty. Ltd.",
+    "MBR": "100",
+    "RQ": "300",
+    "LeadTime": "10"
+  },
+  "R03/N/1AB12/PT": {
+    "Description": "Delivery Box Packaging Carton Insert for AB12",
+    "Supplier": "Abbe Corrugated Pty. Ltd.",
+    "MBR": "100",
+    "RQ": "300",
+    "LeadTime": "10"
+  },
+  "R27/N/2ABUA13/PT": {
+    "Description": "Delivery Box Carton for Side Pod 355mm x 215mm x 265mm",
+    "Supplier": "Abbe Corrugated Pty. Ltd.",
+    "MBR": "150",
+    "RQ": "800",
+    "LeadTime": "10"
+  },
+  "R28/N/2ABUA13/PT": {
+    "Description": "Delivery Box Carton Insert for Side Pod",
+    "Supplier": "Abbe Corrugated Pty. Ltd.",
+    "MBR": "150",
+    "RQ": "300",
+    "LeadTime": "10"
+  },
+  "R35/N/4ABS14/PT": {
+    "Description": "Delivery Box Carton for ABS14 1535 x 505 x 330mm",
+    "Supplier": "Abbe Corrugated Pty. Ltd.",
+    "MBR": "25",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R194/N/4ABS14/PT": {
+    "Description": "ABWBS14 Void Box The Void to transform Big box for small station",
+    "Supplier": "Abbe Corrugated Pty. Ltd.",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R134/N/FX": {
+    "Description": "Foot Pedal Bracket",
+    "Supplier": "AG Holding",
+    "MBR": "40",
+    "RQ": "230",
+    "LeadTime": "10"
+  },
+  "R160/N/1AB12/FX": {
+    "Description": "Half Crescent Base Plate V5",
+    "Supplier": "AG Holding",
+    "MBR": "100",
+    "RQ": "252",
+    "LeadTime": "10"
+  },
+  "R17/N/FX": {
+    "Description": "Filter Bracket",
+    "Supplier": "AG Holding",
+    "MBR": "25",
+    "RQ": "133",
+    "LeadTime": "10"
+  },
+  "R179/N/FX": {
+    "Description": "H6 Base Plate with 4 Tags",
+    "Supplier": "AG Holding",
+    "MBR": "12",
+    "RQ": "28",
+    "LeadTime": "10"
+  },
+  "R202/N/24PSPA/FL": {
+    "Description": "Sink Mesh Rosette Profile Plate for ABUA13",
+    "Supplier": "AG Holding",
+    "MBR": "50",
+    "RQ": "512",
+    "LeadTime": "10"
+  },
+  "R203/N/24PSPA/FL": {
+    "Description": "Sink Mesh Under Plate for ABUA13",
+    "Supplier": "AG Holding",
+    "MBR": "100",
+    "RQ": "968",
+    "LeadTime": "10"
+  },
+  "R211/N/1ABWMR21/FX": {
+    "Description": "ABWMR21 Wall Mounted Refill - Wall Bracket 1.2mm S/S",
+    "Supplier": "AG Holding",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R229/N/FX": {
+    "Description": "Serial Label Plate",
+    "Supplier": "AG Holding",
+    "MBR": "5",
+    "RQ": "72",
+    "LeadTime": "10"
+  },
+  "R264/N/FX": {
+    "Description": "Filter Bracket (Aussie Filter)",
+    "Supplier": "AG Holding",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R83/N/FX": {
+    "Description": "Mini Regulator Bracket V08",
+    "Supplier": "AG Holding",
+    "MBR": "50",
+    "RQ": "224",
+    "LeadTime": "10"
+  },
+  "R09/N/1AB12/FX": {
+    "Description": "Sump Mesh Retaining Ring with 4 Holes 256p / sheet",
+    "Supplier": "AG Holding",
+    "MBR": "50",
+    "RQ": "256",
+    "LeadTime": "10"
+  },
+  "R242/N/1ABWR21/ID": {
+    "Description": "Serial Label Plate (A) ABWMR21 (With Hole)",
+    "Supplier": "AG Holding",
+    "MBR": "50",
+    "RQ": "690",
+    "LeadTime": "10"
+  },
+  "R244/N/1AB12/FL": {
+    "Description": "Sump Mesh Profile - (Front Pod Wire Mesh)",
+    "Supplier": "AG Holding",
+    "MBR": "100",
+    "RQ": "819",
+    "LeadTime": "10"
+  },
+  "R82/W/FL": {
+    "Description": "Pressure Reducing Valve Lead Free Caleffi Regulator",
+    "Supplier": "All Valve Industries Pty. Ltd.",
+    "MBR": "39",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R94/W/16PVA/FL": {
+    "Description": "Solar Panel Anti-Freeze Valve Caleffi 15mm",
+    "Supplier": "All Valve Industries Pty. Ltd.",
+    "MBR": "10",
+    "RQ": "20",
+    "LeadTime": "10"
+  },
+  "PBA-12PPTF/R184": {
+    "Description": "Yellow Push Palm Top Fountain Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-12PPTF/R185": {
+    "Description": "Green Push Palm Top Fountain Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-12PPTF/R186": {
+    "Description": "Blue Push Palm Top Fountain Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-12PPTF/R187": {
+    "Description": "Red Push Palm Top Fountain Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-12PPTF/R188": {
+    "Description": "Grey Push Palm Top Fountain Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-12PPTF/TRF79": {
+    "Description": "S/S Push Palm Top Fountain Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-13PPSF": {
+    "Description": "Push Palm Side Fountain Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-15PR20": {
+    "Description": "Regulator Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-17PDGT": {
+    "Description": "Dog Bowl Tap Production BOM",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-19PDGB": {
+    "Description": "Dog Bowl Bowl Production BOM",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-21PFL": {
+    "Description": "Fountain Lid Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-25PWPC": {
+    "Description": "Waste Plumbing Classic Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-27PWS1": {
+    "Description": "Water Supply 1 Extra Outlet Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-28PWS2": {
+    "Description": "Water Supply 2 Outlets Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-29PCA": {
+    "Description": "Chiller Classic Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-31PCWS1": {
+    "Description": "7/15 Chilled Water Supply 1 Extra Unit with Lagging Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-32PMWIC3": {
+    "Description": "Mains Water In C3 Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-34AWM": {
+    "Description": "Water Meter Production BOM",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-36PIG": {
+    "Description": "Installation Guide Production BOM",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-40PSTD": {
+    "Description": "Side Tap Dispenser Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-41PTTD": {
+    "Description": "Top Tap Dispenser Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-42PPT": {
+    "Description": "Pedal Top Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-43PPS": {
+    "Description": "Pedal Side Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-7AF0": {
+    "Description": "Filtration System Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "PBA-8ACC7/C15": {
+    "Description": "Chiller Classic C7/C15 Production BOM Assembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "TRF127/W/FL": {
+    "Description": "Transformed - Top Tap Dispenser",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "TRF128/W/FL": {
+    "Description": "Transformed - Side Tap Dispenser",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "TRF184/N/FL": {
+    "Description": "PVC Pipe Drain-Waste-Vent Heavy Type N 40mm cut to 68mm AS/NZS 1260:2009",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "250",
+    "RQ": "500",
+    "LeadTime": "1"
+  },
+  "TRF206/N/24PSPA/FL": {
+    "Description": "Sink Mesh and Sink Mesh Under Plate for ABUA13",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "TRF24/N/1AB12/FL": {
+    "Description": "Polyvinyl Chloride Pipe Drain-Waste-Vent Heavy Type N 40mm cut to 105mm AS/NZS 1260:2009",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "12",
+    "RQ": "24",
+    "LeadTime": "1"
+  },
+  "TRF65/W/12PTF/AVR": {
+    "Description": "Transformed - Polished Top Tap Body Chrome",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "300",
+    "RQ": "400",
+    "LeadTime": "1"
+  },
+  "TRF67/W/12PTF/AV": {
+    "Description": "Transformed - Polished Exit Nozzle Stainless Steel (303/304)",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "500",
+    "RQ": "700",
+    "LeadTime": "1"
+  },
+  "TRF77/N/12PTF/AV": {
+    "Description": "Transformed - Polished Press Button Stainless Steel",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "500",
+    "RQ": "700",
+    "LeadTime": "1"
+  },
+  "TRF79/N/PT": {
+    "Description": "Linished & Polished Top Tap Shroud",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "TRF80/W/13PSF/FL": {
+    "Description": "Transformed - Polished Side Tap Body Eco Brass",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "200",
+    "RQ": "300",
+    "LeadTime": "1"
+  },
+  "TRF96/N/21PFL/FL": {
+    "Description": "Transformed - Polished Fountain Dish Stainless Steel",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "200",
+    "RQ": "200",
+    "LeadTime": "1"
+  },
+  "MSA Service Kit P2": {
+    "Description": "Tap service kit P2 (Spring & Orings)",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1"
+  },
+  "R191/N/FX": {
+    "Description": "Roll Spring Pin 12 S/S (420) 1/8 x 3/4",
+    "Supplier": "Austain Fasteners Pty Ltd",
+    "MBR": "200",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R120/W/34AWM/FL": {
+    "Description": "Adapter Brass 20mm - 15mm for Water Meter WM: AS 3688",
+    "Supplier": "Austworld Commodities Pty Ltd",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R64/W/FL": {
+    "Description": "Nozzle Insert Stainless Steel (303/304) Drawing No. 09/009",
+    "Supplier": "Bell Springs Pty. Ltd.",
+    "MBR": "90",
+    "RQ": "180",
+    "LeadTime": "10"
+  },
+  "R117/N/19PDGB/FX": {
+    "Description": "Bracket Spacer Bar Stainless Steel for Dog Bowl",
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "MBR": "10",
+    "RQ": "50",
+    "LeadTime": "10"
+  },
+  "R127/W/FL": {
+    "Description": "S/S - Top Tap Dispenser",
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "MBR": "100",
+    "RQ": "260",
+    "LeadTime": "10"
+  },
+  "R128/W/FL": {
+    "Description": "S/S - Side Tap Dispenser",
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "MBR": "100",
+    "RQ": "240",
+    "LeadTime": "10"
+  },
+  "R223/N/TRF223/AV": {
+    "Description": "Top Tap Body Stainless Steel 304",
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R224/N/TRF224/AV": {
+    "Description": "Side Tap Body Stainless Steel 304",
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R235/W/FL": {
+    "Description": "Hex Connector Top S/S with O-Ring groove",
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "MBR": "100",
+    "RQ": "500",
+    "LeadTime": "10"
+  },
+  "R236/W/FL": {
+    "Description": "Hex Connector Side S/S with O-Ring groove",
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "MBR": "100",
+    "RQ": "500",
+    "LeadTime": "10"
+  },
+  "R251/W/AC": {
+    "Description": "S/S - Universal Tap Body",
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "MBR": "200",
+    "RQ": "500",
+    "LeadTime": "10"
+  },
+  "R66/N/17PDGT/AV": {
+    "Description": "Push Button Stainless Steel of Dog Bowl Tap",
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "MBR": "20",
+    "RQ": "40",
+    "LeadTime": "10"
+  },
+  "R67/N/TRF67/FL": {
+    "Description": "Raw - Exit Nozzle Stainless Steel (303/304) Part No. 09/008",
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "MBR": "200",
+    "RQ": "400",
+    "LeadTime": "10"
+  },
+  "R69/W/AV": {
+    "Description": "Valve Spindle Hex Stainless Steel (303/304)",
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "MBR": "500",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R77/N/TRF77/AV": {
+    "Description": "Raw - Press Button Stainless Steel",
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "MBR": "40",
+    "RQ": "80",
+    "LeadTime": "10"
+  },
+  "R08/N/1AB12/FL": {
+    "Description": "Sump Mesh Assembly 2016",
+    "Supplier": "Beta Metal Spinning Co. Pty. Ltd.",
+    "MBR": "150",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R121/N/34AWM/FX": {
+    "Description": "Bracket 12 Water Meter",
+    "Supplier": "Beta Metal Spinning Co. Pty. Ltd.",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R172/N/FL": {
+    "Description": "Dog Bowl DB 001 + Bracket DB 003",
+    "Supplier": "Beta Metal Spinning Co. Pty. Ltd.",
+    "MBR": "6",
+    "RQ": "20",
+    "LeadTime": "10"
+  },
+  "R206/N/21PFL/PT": {
+    "Description": "Fountain Drain Polished",
+    "Supplier": "Beta Metal Spinning Co. Pty. Ltd.",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R207/N/21PFL/PT": {
+    "Description": "Fountain Cone Polished",
+    "Supplier": "Beta Metal Spinning Co. Pty. Ltd.",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R36/N/4ABS14/FX": {
+    "Description": "Base Plate for ABS14",
+    "Supplier": "Beta Metal Spinning Co. Pty. Ltd.",
+    "MBR": "25",
+    "RQ": "120",
+    "LeadTime": "10"
+  },
+  "R40/N/17PDGT/FX": {
+    "Description": "Universal Tap Mounting Plate for Dog Bowl Tap",
+    "Supplier": "Beta Metal Spinning Co. Pty. Ltd.",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R96/N/TRF96/FL": {
+    "Description": "Raw - Fountain Dish Stainless Steel",
+    "Supplier": "Beta Metal Spinning Co. Pty. Ltd.",
+    "MBR": "200",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R97/N/21PFL/PT": {
+    "Description": "Fountain Drain Polished + Cone",
+    "Supplier": "Beta Metal Spinning Co. Pty. Ltd.",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R122/N/34AWM/FX": {
+    "Description": "Support Ring Water Meter",
+    "Supplier": "Bredo Mators Pty. Ltd.",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R129/W/AC": {
+    "Description": "Universal Tap Body Eco Brass",
+    "Supplier": "Bredo Mators Pty. Ltd.",
+    "MBR": "200",
+    "RQ": "500",
+    "LeadTime": "10"
+  },
+  "R59/W/10ADG/FL": {
+    "Description": "Dog Bowl Nozzle Stainless Steel (303/304)",
+    "Supplier": "Bredo Mators Pty. Ltd.",
+    "MBR": "20",
+    "RQ": "40",
+    "LeadTime": "10"
+  },
+  "R110/W/29PCA/AV": {
+    "Description": "O-Ring Bulkhead 16mm x 2mm for 1/4",
+    "Supplier": "BSC Motion Technology",
+    "MBR": "50",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R217/W/AV": {
+    "Description": "OR019x3N70AS4020 O-Ring",
+    "Supplier": "BSC Motion Technology",
+    "MBR": "100",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R222/W/LB": {
+    "Description": "Molykote 100gram Dow Corning 111 Compound",
+    "Supplier": "BSC Motion Technology",
+    "MBR": "1",
+    "RQ": "3",
+    "LeadTime": "10"
+  },
+  "R71/W/AV": {
+    "Description": "O-Ring 6mm 6 x 10 x 2 DURO 70 AS 4020",
+    "Supplier": "BSC Motion Technology",
+    "MBR": "500",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R72/W/AV": {
+    "Description": "O-Ring 6mm 6 x 11 x 2.5 DURO 70 AS 4020",
+    "Supplier": "BSC Motion Technology",
+    "MBR": "500",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R73/W/12PTF/AV": {
+    "Description": "O-Ring 8m 8 x 12 x 2 DURO 70 AS 4020",
+    "Supplier": "BSC Motion Technology",
+    "MBR": "306.5",
+    "RQ": "613",
+    "LeadTime": "10"
+  },
+  "R193/W/FL": {
+    "Description": "316 S/S Vandal Proof Male Garden Tap 15mm",
+    "Supplier": "Bunnings - Port Melbourne",
+    "MBR": "4",
+    "RQ": "10",
+    "LeadTime": "10"
+  },
+  "MN-F0": {
+    "Description": "Maintenance Filter",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "MN-F0-10": {
+    "Description": "Filter Replacement Kit",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R106/W/FL": {
+    "Description": "PLV Plastic 3/8 D 550 kpa",
+    "Supplier": "BWT Australia",
+    "MBR": "5",
+    "RQ": "20",
+    "LeadTime": "10"
+  },
+  "R218/W/7AF0/FL": {
+    "Description": "Filter Cartridge Mini Carbon Block & Sediment Filter 10 Snaplock",
+    "Supplier": "BWT Australia",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R219/W/7AF0/FL": {
+    "Description": "Filter Mini Snaplock Manual Head",
+    "Supplier": "BWT Australia",
+    "MBR": "5",
+    "RQ": "20",
+    "LeadTime": "10"
+  },
+  "R220/N/FX": {
+    "Description": "Filter Mini Snaplock Mounting Bracket",
+    "Supplier": "BWT Australia",
+    "MBR": "5",
+    "RQ": "20",
+    "LeadTime": "10"
+  },
+  "R25/N/20PF0/FL": {
+    "Description": "Filter Head",
+    "Supplier": "BWT Australia",
+    "MBR": "5",
+    "RQ": "10",
+    "LeadTime": "10"
+  },
+  "R258/W/FL": {
+    "Description": "BWT ULTRO Filter Cartridge Carbon FIBRON 5 + AS 3497 - 2021 WM 022099",
+    "Supplier": "BWT Australia",
+    "MBR": "5",
+    "RQ": "24",
+    "LeadTime": "10"
+  },
+  "R260/N/FX": {
+    "Description": "BWT ULTRO Filter Head No Bkt W+M",
+    "Supplier": "BWT Australia",
+    "MBR": "5",
+    "RQ": "24",
+    "LeadTime": "10"
+  },
+  "R51/W/7AF0/FL": {
+    "Description": "Filter Cartridge Carbon Block & Sediment Filter 10 WM",
+    "Supplier": "BWT Australia",
+    "MBR": "5",
+    "RQ": "24",
+    "LeadTime": "10"
+  },
+  "R55/W/9AFT/FL": {
+    "Description": "Twin Filtration System AB45",
+    "Supplier": "BWT Australia",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "R161/N/FX": {
+    "Description": "M6 x 65mm S/S Set Screw",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "50",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R162/N/FX": {
+    "Description": "M6 S/S Spring Washer",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "100",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R163/N/FX": {
+    "Description": "M6 S/S Nylock Nut",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "50",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R164/N/FX": {
+    "Description": "M4 x 12mm Pan Phillips",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "200",
+    "RQ": "400",
+    "LeadTime": "10"
+  },
+  "R165/N/FX": {
+    "Description": "M7 Hex Nut",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "100",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R166/N/FX": {
+    "Description": "M6 S/S Washer",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "50",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R212/N/FX": {
+    "Description": "M6x16 Button Post Torx M/T 304 S/S",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R213/N/FX": {
+    "Description": "#8x1 SS Countersunk Head Post Torx - Self Tapper",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "100",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R214/N/FX": {
+    "Description": "M6x40mm Countersunk Post Torx Screw",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R215/N/FX": {
+    "Description": "M6x16mm Mushroom Head Phillips Button Screw",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "60",
+    "RQ": "600",
+    "LeadTime": "10"
+  },
+  "R216/N/FX": {
+    "Description": "SS Rivet 4.8dia x 3.2grip dome head",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "100",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R38/N/FX": {
+    "Description": "Screw Stainless Steel Countersunk Post Torx Machine (304) M6 x 16",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "100",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R53/N/FX": {
+    "Description": "M6 S/S 304 Hex Nut",
+    "Supplier": "Cost Less Bolts",
+    "MBR": "0.5",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "Mouldem Printing cost": {
+    "Description": "Printing set up cost",
+    "Supplier": "Duragraf",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "15"
+  },
+  "Mouldem Printing cost for additional graphics": {
+    "Description": "Printing cost for each additional aquaBUBBLERs",
+    "Supplier": "Duragraf",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "15"
+  },
+  "R34/N/4ABS14/FL": {
+    "Description": "Waste 40x50mm BRS CP : 71092",
+    "Supplier": "Elson Australiasia Pty Ltd",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R123/W/34AWM/ID": {
+    "Description": "Water Meter Measuring Cold Potable Water 15mm",
+    "Supplier": "Elster Metering Pty. Ltd.",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "AB/C15": {
+    "Description": "aquaBUBBLER Chiller 15L",
+    "Supplier": "Frigmac",
+    "MBR": "1",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "AB/C3": {
+    "Description": "aquaBUBBLER Chiller 3L",
+    "Supplier": "Frigmac",
+    "MBR": "3",
+    "RQ": "8",
+    "LeadTime": "10"
+  },
+  "AB/C7": {
+    "Description": "aquaBUBBLER Chiller 7.5L",
+    "Supplier": "Frigmac",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "R159/N/1AB12/ID": {
+    "Description": "Quality Check Card",
+    "Supplier": "FRP Printing PTY LTD",
+    "MBR": "200",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R175/N/ID": {
+    "Description": "Hands Free Retro-Fit Sticker",
+    "Supplier": "FRP Printing PTY LTD",
+    "MBR": "250",
+    "RQ": "500",
+    "LeadTime": "10"
+  },
+  "R18/N/1AB12/ID": {
+    "Description": "Card for Adjusting Water Pressure 250gsm",
+    "Supplier": "FRP Printing PTY LTD",
+    "MBR": "200",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R19/N/1AB12/ID": {
+    "Description": "Printable Card - Fill the Pod 250gsm",
+    "Supplier": "FRP Printing PTY LTD",
+    "MBR": "200",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R31/N/2ABUA13/ID": {
+    "Description": "Printable Card Tighten Bolts Tag 250gsm",
+    "Supplier": "FRP Printing PTY LTD",
+    "MBR": "30",
+    "RQ": "60",
+    "LeadTime": "10"
+  },
+  "R30/N/2ABUA13/FL": {
+    "Description": "Hose Siphon Petrol Transfer 18mm with Anti Static Strip 50m",
+    "Supplier": "Hose Factory",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R250/N/1AB12/PT": {
+    "Description": "Delivery Box Carton for ABWR21 330W x 620D x 240H mm",
+    "Supplier": "Imperial Cartons",
+    "MBR": "100",
+    "RQ": "250",
+    "LeadTime": "10"
+  },
+  "R111/W/29PCA/FL": {
+    "Description": "Pressure Relief Valve",
+    "Supplier": "Krs Valves Pty. Ltd.",
+    "MBR": "15",
+    "RQ": "30",
+    "LeadTime": "10"
+  },
+  "R221/N/FX": {
+    "Description": "1mm x 19 strand S/S wire rope. 50M Roll",
+    "Supplier": "Low Cost Wire",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R254/N/FX": {
+    "Description": "1.2mm Wire Swages / Crimps",
+    "Supplier": "Low Cost Wire",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R75/W/AV": {
+    "Description": "Spring Stainless Steel (304)",
+    "Supplier": "Marsh Springs",
+    "MBR": "400",
+    "RQ": "2000",
+    "LeadTime": "10"
+  },
+  "R119/N/19PDGB/FX": {
+    "Description": "Cup Head Bolt Stainless Steel (316) for Dog Bowl M8 x 30",
+    "Supplier": "Micro Fasteners Pty. Ltd",
+    "MBR": "50",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R12/N/1AB12/FL": {
+    "Description": "Torx Security Screw 8g Dish and Mesh Button (304) Stainless Steel 8g x 1/2",
+    "Supplier": "Micro Fasteners Pty. Ltd",
+    "MBR": "500",
+    "RQ": "2000",
+    "LeadTime": "10"
+  },
+  "R124/N/34AWM/ID": {
+    "Description": "Button Socket Screw Plain for Water Meter M5 x 10mm",
+    "Supplier": "Micro Fasteners Pty. Ltd",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R13/N/1AB12/FX": {
+    "Description": "Pop Rivets 3.2mm x 8.2mm Domed Head Aluminium",
+    "Supplier": "Micro Fasteners Pty. Ltd",
+    "MBR": "300",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R14/N/1AB12/FX": {
+    "Description": "Button Socket Zinc Plated M8 x 20mm",
+    "Supplier": "Micro Fasteners Pty. Ltd",
+    "MBR": "400",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R140/N/35AEB/FX": {
+    "Description": "Hex Bolts Stainless Steel M10 x 20mm (304)",
+    "Supplier": "Micro Fasteners Pty. Ltd",
+    "MBR": "100",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R141/N/35AEB/FX": {
+    "Description": "Washers Stainless Steel M10 (304)",
+    "Supplier": "Micro Fasteners Pty. Ltd",
+    "MBR": "100",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R15/N/1AB12/FX": {
+    "Description": "Mudguard Washers Zinc Plated for Side Pod 5/16 x 1 x 16g",
+    "Supplier": "Micro Fasteners Pty. Ltd",
+    "MBR": "400",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R205/N/1AB12/FX": {
+    "Description": "Pop Rivets 3.2mm x 6.4mm Domed Head S/S",
+    "Supplier": "Micro Fasteners Pty. Ltd",
+    "MBR": "300",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R241/N/1AB12/FX": {
+    "Description": "Pop Rivets 4.8mm x 19mm Grip Domed Head",
+    "Supplier": "Micro Fasteners Pty. Ltd.",
+    "MBR": "300",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R256/N/FX": {
+    "Description": "M4 x 10mm Countersunk Head Phillips 304 S/S",
+    "Supplier": "Micro Fasteners Pty. Ltd.",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R263/N/19PDGB/FX": {
+    "Description": "Nut M8 Stainless Steel (304) for Dog Bowl",
+    "Supplier": "Micro Fasteners Pty. Ltd.",
+    "MBR": "50",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R37/N/4ABS14/FX": {
+    "Description": "Pop Rivet 4.8mm x 12.7mm",
+    "Supplier": "Micro Fasteners Pty. Ltd.",
+    "MBR": "300",
+    "RQ": "2000",
+    "LeadTime": "10"
+  },
+  "R52/N/FX": {
+    "Description": "Security Screw Countersunk Post Torx M6 x 20 (304)",
+    "Supplier": "Micro Fasteners Pty. Ltd.",
+    "MBR": "300",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R60/N/10ADG/FX": {
+    "Description": "Roll Spring Pin 12 Stainless Steel (420) 1/8 x 1/2",
+    "Supplier": "Micro Fasteners Pty. Ltd.",
+    "MBR": "200",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R74/W/17PDGT/FL": {
+    "Description": "Red Fibre Washer 15.875mm x 25.4mm x 1.5mm 12",
+    "Supplier": "Micro Fasteners Pty. Ltd.",
+    "MBR": "500",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R86/N/FX": {
+    "Description": "M6 Rivnut CSK",
+    "Supplier": "Micro Fasteners Pty. Ltd.",
+    "MBR": "300",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R192/N/FX": {
+    "Description": "Security Screwdriver T15 Post Torx",
+    "Supplier": "Ningbo Tango Tree Tools Co. Ltd",
+    "MBR": "200",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R204/N/FX": {
+    "Description": "Security Screwdriver T30 Post Torx",
+    "Supplier": "Ningbo Tango Tree Tools Co. Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "M129/AP4/N/4ABS14T/ID": {
+    "Description": "Standard Panel 1.9mm Ployrop Panel Size - 1150mmx445mm Visible print area - 1100mmx422mm Finish - Gloss Anti Graffiti Laminate Single Sided",
+    "Supplier": "Southern Impact P/L trading as Peak Digital",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "M130/AP5/N/4ABS14T/ID": {
+    "Description": "Standard Panel 1.9mm Ployrop Panel Size - 1150mmx445mm Visible print area - 1100mmx422mm Finish - Gloss Anti Graffiti Laminate Single Sided",
+    "Supplier": "Southern Impact P/L trading as Peak Digital",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "M131/AP6/N/4ABS14T/ID": {
+    "Description": "Standard Panel 1.9mm Ployrop Panel Size - 1150mmx445mm Visible print area - 1100mmx422mm Finish - Gloss Anti Graffiti Laminate Single Sided",
+    "Supplier": "Southern Impact P/L trading as Peak Digital",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "M132/AP7/N/4ABS14T/ID": {
+    "Description": "Standard Panel 1.9mm Ployrop Panel Size - 1150mmx445mm Visible print area - 1100mmx422mm Finish - Gloss Anti Graffiti Laminate Single Sided",
+    "Supplier": "Southern Impact P/L trading as Peak Digital",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "M133/AP8/N/4ABS14T/ID": {
+    "Description": "Standard Panel 1.9mm Ployrop Panel Size - 1150mmx445mm Visible print area - 1100mmx422mm Finish - Gloss Anti Graffiti Laminate Single Sided",
+    "Supplier": "Southern Impact P/L trading as Peak Digital",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "M134/AP9/N/4ABS14T/ID": {
+    "Description": "Standard Panel 1.9mm Ployrop Panel Size - 1150mmx445mm Visible print area - 1100mmx422mm Finish - Gloss Anti Graffiti Laminate Single Sided",
+    "Supplier": "Southern Impact P/L trading as Peak Digital",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "M135/AP10/N/4ABS14T/ID": {
+    "Description": "Standard Panel 1.9mm Ployrop Panel Size - 1150mmx445mm Visible print area - 1100mmx422mm Finish - Gloss Anti Graffiti Laminate Single Sided",
+    "Supplier": "Southern Impact P/L trading as Peak Digital",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "M136/AP11/N/4ABS14T/ID": {
+    "Description": "Standard Panel 1.9mm Ployrop Panel Size - 1150mmx445mm Visible print area - 1100mmx422mm Finish - Gloss Anti Graffiti Laminate Single Sided",
+    "Supplier": "Southern Impact P/L trading as Peak Digital",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "M137/BP/N/4ABS14T/ID": {
+    "Description": "Blank Panel 1.9mm Ployrop Panel Size - 1150mmx445mm Visible print area - 1100mmx422mm Finish - Gloss Anti Graffiti Laminate Single Sided",
+    "Supplier": "Southern Impact P/L trading as Peak Digital",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "M138/CP/N/4ABS14T/ID": {
+    "Description": "Customised Panel 1.9mm Ployrop Panel Size - 1150mmx445mm Visible print area - 1100mmx422mm Finish - Gloss Anti Graffiti Laminate Single Sided",
+    "Supplier": "Southern Impact P/L trading as Peak Digital",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R144/N/36PIG/ID": {
+    "Description": "Printable Install Guide in this Box Sticker",
+    "Supplier": "PMS Lithography",
+    "MBR": "100",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R200/N/1AB12/FX": {
+    "Description": "1/2 BSP Backing Nut 316 S/S",
+    "Supplier": "PMS Lithography",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R21/N/1AB12/ID": {
+    "Description": "Printable Sticker Plate Important Base - Mounting",
+    "Supplier": "PMS Lithography",
+    "MBR": "50",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "S96/TRF96/POL": {
+    "Description": "Service - Polishing Brush Satin Fountain Dish Stainless Steel",
+    "Supplier": "Precision Plating (Aust) Pty. Ltd.",
+    "MBR": "200",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R107/W/FL": {
+    "Description": "Branch Stem Tee 1/4",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "200",
+    "RQ": "400",
+    "LeadTime": "10"
+  },
+  "R108/W/FL": {
+    "Description": "Straight Connector Reducing 3/8 - 1/4",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "150",
+    "RQ": "300",
+    "LeadTime": "10"
+  },
+  "R109/W/FL": {
+    "Description": "Stem Elbow 1/4 x 1/4",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "200",
+    "RQ": "400",
+    "LeadTime": "10"
+  },
+  "R112/W/29PCA/FL": {
+    "Description": "Tee Connector Equal for Micro Chiller 1/4",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "50",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R113/W/29PCA/FL": {
+    "Description": "Reducer 3/8 Stem - 1/4 Tube",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "50",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R114/W/29PCA/FL": {
+    "Description": "Bulkhead Connector 1/4",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "15",
+    "RQ": "30",
+    "LeadTime": "10"
+  },
+  "R125/W/33PMWIC7/C15/FL": {
+    "Description": "Straight Adaptor 3/8 x 1/2 bsp 7/15L Chiller Connection",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R167/W/FL": {
+    "Description": "Pipe 1/4 LLDPE Tubing - Black 500ft",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "1",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "R169/W/FL": {
+    "Description": "Straight Adaptor 1/4 x 1/4 BSP",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "400",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R170/W/FL": {
+    "Description": "Plug 1/4 AB||26",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "50",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R176/N/FL": {
+    "Description": "Stem Elbow 3/8 - 1/4",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "10",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R178/N/FL": {
+    "Description": "Female Adaptor 3/8 x 1/2 bsp - Flat End",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "10",
+    "RQ": "20",
+    "LeadTime": "10"
+  },
+  "R261/N/FL": {
+    "Description": "Tap adaptor 3/4 tube OD x 3/4 BSP thread",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "30",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R265/W/FL": {
+    "Description": "1/4 Union Coupling PI0408S",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R32/W/20PF0/FL": {
+    "Description": "Stem Elbow 3/8 - 3/8",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R44/W/6AC3/FL": {
+    "Description": "Shut Off Valve 1/4 - 1/4",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "25",
+    "RQ": "50",
+    "LeadTime": "10"
+  },
+  "R45/W/6AC3/FL": {
+    "Description": "Tap Adaptor 1/4 x 1/2BSP",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R49/W/FL": {
+    "Description": "Shut Off Valve 3/8 - 3/8",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "25",
+    "RQ": "50",
+    "LeadTime": "10"
+  },
+  "R50/W/FL": {
+    "Description": "Tap Adaptor 3/8 x 1/2 bsp",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "24",
+    "RQ": "12",
+    "LeadTime": "10"
+  },
+  "R54/W/FL": {
+    "Description": "Pipe 3/8 LLDPE Tube - Blue",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "R87/W/FL": {
+    "Description": "Stem Adaptor 3/8 - 3/8 bsp",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "150",
+    "RQ": "300",
+    "LeadTime": "10"
+  },
+  "R95/W/16PVA/FL": {
+    "Description": "Equal Tee - Piece 3/8",
+    "Supplier": "Reliance Worldwide Corporation Pty. Ltd",
+    "MBR": "10",
+    "RQ": "20",
+    "LeadTime": "10"
+  },
+  "ABB700DB": {
+    "Description": "ROI-A2-BO-700 Dark Blue",
+    "Supplier": "ROI",
+    "MBR": "3",
+    "RQ": "6",
+    "LeadTime": "10"
+  },
+  "ABB700DG": {
+    "Description": "ROI-A9-BO-700 Dark Green",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB700LB": {
+    "Description": "ROI-A7-BO-700 Light Blue",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB700LG": {
+    "Description": "ROI-A4-BO-700 Lime Green",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB700MB": {
+    "Description": "ROI-B1-BO-700 Mountain Blue",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABB700MO": {
+    "Description": "ROI-A1-BO-700 Monument",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABB700PU": {
+    "Description": "ROI-B2-BO-700 Purple",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB700SO": {
+    "Description": "ROI-A6-BO-700 Stock Orange",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB700SR": {
+    "Description": "ROI-A3-BO-700 Stock Red",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB700SW": {
+    "Description": "ROI-B3-BO-700 Stock White",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB700SY": {
+    "Description": "ROI-A5-BO-700 Stock Yellow",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB700TE": {
+    "Description": "ROI-A8-BO-700 Teal",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB800DB": {
+    "Description": "ROI-A2-BO-800 Dark Blue",
+    "Supplier": "ROI",
+    "MBR": "3",
+    "RQ": "6",
+    "LeadTime": "10"
+  },
+  "ABB800DG": {
+    "Description": "ROI-A9-BO-800 Dark Green",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB800LB": {
+    "Description": "ROI-A7-BO-800 Light Blue",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB800LG": {
+    "Description": "ROI-A4-BO-800 Lime Green",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB800MB": {
+    "Description": "ROI-B1-BO-800 Mountain Blue",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABB800MO": {
+    "Description": "ROI-A1-BO-800 Monument",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABB800PU": {
+    "Description": "ROI-B2-BO-800 Purple",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB800SO": {
+    "Description": "ROI-A6-BO-800 Stock Orange",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB800SR": {
+    "Description": "ROI-A3-BO-800 Stock Red",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB800SW": {
+    "Description": "ROI-B3-BO-800 Stock White",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB800SY": {
+    "Description": "ROI-A5-BO-800 Stock Yellow",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABB800TE": {
+    "Description": "ROI-A8-BO-800 Teal",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABBWRDB": {
+    "Description": "ROI-A2-WR Dark Blue",
+    "Supplier": "ROI",
+    "MBR": "3",
+    "RQ": "6",
+    "LeadTime": "10"
+  },
+  "ABBWRLB": {
+    "Description": "ROI-A7-WR Light Blue",
+    "Supplier": "ROI",
+    "MBR": "3",
+    "RQ": "6",
+    "LeadTime": "10"
+  },
+  "ABBWRLG": {
+    "Description": "ROI-A4-WR Lime Green",
+    "Supplier": "ROI",
+    "MBR": "3",
+    "RQ": "6",
+    "LeadTime": "10"
+  },
+  "ABBWRMB": {
+    "Description": "ROI-B1-WR Mountain Blue",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABBWRMO": {
+    "Description": "ROI-A1-WR Monument",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABBWRPU": {
+    "Description": "ROI-B2-WR Purple",
+    "Supplier": "ROI",
+    "MBR": "3",
+    "RQ": "6",
+    "LeadTime": "10"
+  },
+  "ABBWRSR": {
+    "Description": "ROI-A3-WR Stock Red",
+    "Supplier": "ROI",
+    "MBR": "3",
+    "RQ": "6",
+    "LeadTime": "10"
+  },
+  "ABBWRSW": {
+    "Description": "ROI-B3-WR Stock White",
+    "Supplier": "ROI",
+    "MBR": "3",
+    "RQ": "6",
+    "LeadTime": "10"
+  },
+  "ABBWRTE": {
+    "Description": "ROI-A8-WR Teal",
+    "Supplier": "ROI",
+    "MBR": "3",
+    "RQ": "6",
+    "LeadTime": "10"
+  },
+  "ABBWRTO": {
+    "Description": "ROI-A6-WR Tiger Orange",
+    "Supplier": "ROI",
+    "MBR": "3",
+    "RQ": "6",
+    "LeadTime": "10"
+  },
+  "ABEB250DB": {
+    "Description": "ROI-A2-EB-250 Dark Blue",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "ABEB250DG": {
+    "Description": "ROI-A9-EB-250 Dark Green",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "ABEB250DP": {
+    "Description": "ROI-B2-EB-250 Deep Purple",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "ABEB250LB": {
+    "Description": "ROI-A7-EB-250 Light Blue",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "ABEB250LG": {
+    "Description": "ROI-A4-EB-250 Lime Green",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "ABEB250MB": {
+    "Description": "ROI-B1-EB-250 Mountain Blue",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABEB250MO": {
+    "Description": "ROI-A1-EB-250 Monument",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABEB250SR": {
+    "Description": "ROI-A3-EB-250 Stock Red",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "ABEB250SW": {
+    "Description": "ROI-B3-EB-250 Stock White",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "ABEB250SY": {
+    "Description": "ROI-A5-EB-250 Stock Yellow",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "ABEB250TE": {
+    "Description": "ROI-A8-EB-250 Teal",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "ABEB250TO": {
+    "Description": "ROI-A6-EB-250 Tiger Orange",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "ABFPDB": {
+    "Description": "ROI-A2-FP Dark Blue",
+    "Supplier": "ROI",
+    "MBR": "6",
+    "RQ": "12",
+    "LeadTime": "10"
+  },
+  "ABFPDG": {
+    "Description": "ROI-A9-FP Dark Green",
+    "Supplier": "ROI",
+    "MBR": "4",
+    "RQ": "8",
+    "LeadTime": "10"
+  },
+  "ABFPLB": {
+    "Description": "ROI-A7-FP Light Blue",
+    "Supplier": "ROI",
+    "MBR": "4",
+    "RQ": "8",
+    "LeadTime": "10"
+  },
+  "ABFPLG": {
+    "Description": "ROI-A4-FP Lime Green",
+    "Supplier": "ROI",
+    "MBR": "4",
+    "RQ": "8",
+    "LeadTime": "10"
+  },
+  "ABFPMB": {
+    "Description": "ROI-B1-FP Mountain Blue",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABFPMO": {
+    "Description": "ROI-A1-FP Monument",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABFPPU": {
+    "Description": "ROI-B2-FP Purple",
+    "Supplier": "ROI",
+    "MBR": "4",
+    "RQ": "8",
+    "LeadTime": "10"
+  },
+  "ABFPSO": {
+    "Description": "ROI-A6-FP Stock Orange",
+    "Supplier": "ROI",
+    "MBR": "4",
+    "RQ": "8",
+    "LeadTime": "10"
+  },
+  "ABFPSR": {
+    "Description": "ROI-A3-FP Stock Red",
+    "Supplier": "ROI",
+    "MBR": "4",
+    "RQ": "8",
+    "LeadTime": "10"
+  },
+  "ABFPSW": {
+    "Description": "ROI-B3-FP Stock White",
+    "Supplier": "ROI",
+    "MBR": "4",
+    "RQ": "8",
+    "LeadTime": "10"
+  },
+  "ABFPSY": {
+    "Description": "ROI-A5-FP Stock Yellow",
+    "Supplier": "ROI",
+    "MBR": "4",
+    "RQ": "8",
+    "LeadTime": "10"
+  },
+  "ABFPTE": {
+    "Description": "ROI-A8-FP Teal",
+    "Supplier": "ROI",
+    "MBR": "4",
+    "RQ": "8",
+    "LeadTime": "10"
+  },
+  "ABSPDB": {
+    "Description": "ROI-A2-SP Dark Blue",
+    "Supplier": "ROI",
+    "MBR": "3",
+    "RQ": "6",
+    "LeadTime": "10"
+  },
+  "ABSPDG": {
+    "Description": "ROI-A9-SP Dark Green",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABSPLB": {
+    "Description": "ROI-A7-SP Light Blue",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABSPLG": {
+    "Description": "ROI-A4-SP Lime Green",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABSPMB": {
+    "Description": "ROI-B1-SP Mountain Blue",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABSPMO": {
+    "Description": "ROI-A1-SP Monument",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABSPPU": {
+    "Description": "ROI-B2-SP Purple",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABSPSO": {
+    "Description": "ROI-A6-SP Stock Orange",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABSPSR": {
+    "Description": "ROI-A3-SP Stock Red",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABSPSW": {
+    "Description": "ROI-B3-SP Stock White",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABSPSY": {
+    "Description": "ROI-A5-SP Stock Yellow",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABSPTE": {
+    "Description": "ROI-A8-SP Teal",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "4",
+    "LeadTime": "10"
+  },
+  "ABT1300DB": {
+    "Description": "ROI-A2-RS-1300 Dark Blue Refill Station",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "ABT1300DG": {
+    "Description": "ROI-A9-RS-1300 Dark Green Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "ABT1300LB": {
+    "Description": "ROI-A7-RS-1300 Light Blue Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "ABT1300MO": {
+    "Description": "ROI-A1-RS-1300 Monument Refill Station",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABT1300SO": {
+    "Description": "ROI-A6-RS-1300 Stock Orange Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "ABT1300SR": {
+    "Description": "ROI-A3-RS-1300 Stock Red Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "ABT1300SY": {
+    "Description": "ROI-A5-RS-1300 Stock Yellow Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "ABT1300TE": {
+    "Description": "ROI-A8-RS-1300 Teal Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "ABT1500DB": {
+    "Description": "ROI-A2-RS-1500 Dark Blue Refill Station",
+    "Supplier": "ROI",
+    "MBR": "2",
+    "RQ": "2",
+    "LeadTime": "10"
+  },
+  "ABT1500DG": {
+    "Description": "ROI-A9-RS-1500 Dark Green Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "ABT1500LB": {
+    "Description": "ROI-A7-RS-1500 Light Blue Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "ABT1500LG": {
+    "Description": "ROI-A4-RS-1500 Lime Green Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "ABT1500MB": {
+    "Description": "ROI-B1-RS-1500 Mountain Blue Refill Station",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABT1500MO": {
+    "Description": "ROI-A1-RS-1500 Monument Refill Station",
+    "Supplier": "ROI",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "ABT1500PU": {
+    "Description": "ROI-B2-RS-1500 Purple Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "ABT1500SR": {
+    "Description": "ROI-A3-RS-1500 Stock Red Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "ABT1500SY": {
+    "Description": "ROI-A5-RS-1500 Stock Yellow Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "ABT1500TE": {
+    "Description": "ROI-A8-RS-1500 Teal Refill Station",
+    "Supplier": "ROI",
+    "MBR": "1",
+    "RQ": "1",
+    "LeadTime": "10"
+  },
+  "R183/N/FL": {
+    "Description": "Director Low Density Male Inlet 19mm X 15mm",
+    "Supplier": "Smart Water Corporation Pty Ltd",
+    "MBR": "20",
+    "RQ": "50",
+    "LeadTime": "10"
+  },
+  "R33/N/2ABUA13/FL": {
+    "Description": "Elbow Low Density Male Inlet 19mm X 15mm",
+    "Supplier": "Smart Water Corporation Pty Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R92/N/24PSPA/FL": {
+    "Description": "Elbow FI Low Density 19mm x 15mm",
+    "Supplier": "Smart Water Corporation Pty Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R93/N/24PSPA/FX": {
+    "Description": "Screw Poly Hex Nipple 15mm",
+    "Supplier": "Smart Water Corporation Pty Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R173/W/FL": {
+    "Description": "Stainless Steel Service Valve 3/8 Male Female WM API1598 EN12266",
+    "Supplier": "SP Valves",
+    "MBR": "100",
+    "RQ": "300",
+    "LeadTime": "10"
+  },
+  "R174/W/FL": {
+    "Description": "316 Stainless Steel Hex Reducing Nipple 1/2 BSP tapered Thread Male - 3/8 BSP Tapered Thread Male",
+    "Supplier": "SP Valves",
+    "MBR": "100",
+    "RQ": "300",
+    "LeadTime": "10"
+  },
+  "R196/W/1AB12/FL": {
+    "Description": "1/2 BSP 90 Elbow F/F 316 S/S",
+    "Supplier": "SP Valves",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R197/W/1AB12/FL": {
+    "Description": "1/2 BSP Socket F/F 316 S/S",
+    "Supplier": "SP Valves",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R198/W/1AB12/FL": {
+    "Description": "1/2 BSP Hex Nipple M/M 316 S/S",
+    "Supplier": "SP Valves",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R199/W/1AB12/FL": {
+    "Description": "1/2 BSP Equal Tee F/F/F 316 S/S",
+    "Supplier": "SP Valves",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R201/N/1AB12/FX": {
+    "Description": "1 BSP Backing Nut 316 S/S - (Tap Body Nut)",
+    "Supplier": "SP Valves",
+    "MBR": "100",
+    "RQ": "500",
+    "LeadTime": "10"
+  },
+  "R253/W/FL": {
+    "Description": "316 Stainless Steel Hex Nipple Male / Male",
+    "Supplier": "SP Valves",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "10"
+  },
+  "R255/N/1AB12/FL": {
+    "Description": "1/2 to 1/4 BSP Reducing Nipple - 316 S/S",
+    "Supplier": "SP Valves",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R100/N/25PWPC/FL": {
+    "Description": "Adaptor PVC MI 40mm",
+    "Supplier": "Tradelink Pty Ltd",
+    "MBR": "50",
+    "RQ": "100",
+    "LeadTime": "10"
+  },
+  "R101/N/25PWPC/FL": {
+    "Description": "Taper Level Invert Drain-Waste-Vent Polyvinyl Chloride 65MM x 40mm",
+    "Supplier": "Tradelink Pty Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R102/N/25PWPC/FL": {
+    "Description": "Tee Junction F&F Drain-Waste-Vent SNG Plain Polyvinyl Chloride 40mm x 88Deg WMKA1305",
+    "Supplier": "Tradelink Pty Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R103/N/26PWPRS/FL": {
+    "Description": "Cap & Linning Drain-Waste-Vent Polyvinyl Chloride-Loose Nut Connect 40mm 010228",
+    "Supplier": "Tradelink Pty Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R105/N/26PWPRS/FL": {
+    "Description": "Pipe Drain-Waste-Vent Polyvinyl Chloride Heavy Type N 40mm x 6 MTR",
+    "Supplier": "Tradelink Pty Ltd",
+    "MBR": "2",
+    "RQ": "6",
+    "LeadTime": "10"
+  },
+  "R210/N/FL": {
+    "Description": "P-Trap Micro Basin PVC 40mm",
+    "Supplier": "Tradelink Pty Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R22/N/1AB12/FL": {
+    "Description": "Bend Drain-Waste-Vent Plain F&F Polyvinyl Chloride 40mm x 88 Deg WMKA1305",
+    "Supplier": "Tradelink Pty Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R249/N/FL": {
+    "Description": "40mm PVC 40 degree elbow Female to Male",
+    "Supplier": "Tradelink Pty Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R262/N/FL": {
+    "Description": "Vertical Snake-Trap with Overflow PVC 40mm",
+    "Supplier": "Tradelink Pty Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R48/N/30PCWS2/FL": {
+    "Description": "Pipe Insulated ST STD Temp Plain 6ID 9WT 2MTR",
+    "Supplier": "Tradelink Pty Ltd",
+    "MBR": "80",
+    "RQ": "160",
+    "LeadTime": "10"
+  },
+  "R99/N/25PWPC/FL": {
+    "Description": "S-Trap Polyvinyl Chloride 40mm WMKT1307-1",
+    "Supplier": "Tradelink Pty Ltd",
+    "MBR": "50",
+    "RQ": "200",
+    "LeadTime": "10"
+  },
+  "R171/N/FX": {
+    "Description": "12mm x 12mm Square Bar 4 metre length",
+    "Supplier": "Ullrich Aluminium Pty Ltd",
+    "MBR": "0",
+    "RQ": "1",
+    "LeadTime": "15"
+  },
+  "R42/N/4ABS14/ID": {
+    "Description": "Sign Board Plate Capping Drilled 1115mm",
+    "Supplier": "Ullrich Aluminium Pty Ltd",
+    "MBR": "10",
+    "RQ": "20",
+    "LeadTime": "15"
+  },
+  "R43/N/4ABS14/FX": {
+    "Description": "Flat Bar Aluminium Anodised Matt Clear 15um 20mm x 3mm x 4 metre Length",
+    "Supplier": "Ullrich Aluminium Pty Ltd",
+    "MBR": "4",
+    "RQ": "8",
+    "LeadTime": "15"
+  },
+  "R184/N/PT/YD": {
+    "Description": "Yellow (109C) / Dark Grey (433C) Mouth Guard",
+    "Supplier": "Von Pace",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "15"
+  },
+  "R185/N/PT/GD": {
+    "Description": "Green (376C) / Dark Grey (433C) Mouth Guard",
+    "Supplier": "Von Pace",
+    "MBR": "20",
+    "RQ": "100",
+    "LeadTime": "15"
+  },
+  "R186/N/PT/BD": {
+    "Description": "Blue (2995C) / Dark Grey (433C) Mouth Guard",
+    "Supplier": "Von Pace",
+    "MBR": "40",
+    "RQ": "200",
+    "LeadTime": "15"
+  },
+  "R187/N/PT/RD": {
+    "Description": "Red (032C) / Dark Grey (433C) Mouth Guard",
+    "Supplier": "Von Pace",
+    "MBR": "40",
+    "RQ": "200",
+    "LeadTime": "15"
+  },
+  "R188/N/PT/GD": {
+    "Description": "Grey (432C) / Dark Grey (433C) Mouth Guard",
+    "Supplier": "Von Pace",
+    "MBR": "80",
+    "RQ": "400",
+    "LeadTime": "15"
+  },
+  "R189/N/FL": {
+    "Description": "Plastic Washer",
+    "Supplier": "Von Pace",
+    "MBR": "250",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R190/N/FX": {
+    "Description": "Plastic Tread Foot Pedal",
+    "Supplier": "Von Pace",
+    "MBR": "150",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R245/N/FX": {
+    "Description": "Sump Mesh Dress Ring - Black Gloss Plastic IM",
+    "Supplier": "Von Pace",
+    "MBR": "250",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R246/N/FX": {
+    "Description": "Sump Mesh Underplate Disc - Black Plastic IM",
+    "Supplier": "Von Pace",
+    "MBR": "250",
+    "RQ": "1000",
+    "LeadTime": "10"
+  },
+  "R247/N/FX": {
+    "Description": "Fountain Tray Sump - Black Plastic IM",
+    "Supplier": "Von Pace",
+    "MBR": "250",
+    "RQ": "1000",
+    "LeadTime": "10"
+  }
+}
