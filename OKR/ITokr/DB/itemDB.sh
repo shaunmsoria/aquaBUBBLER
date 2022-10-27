@@ -8,7 +8,7 @@ rm -f tmp.json tmp2.json
 
 # jq '. | to_entries[] | select( .key | contains("/W/"))' $1 # will only select the Watermark itemsi
 
-# jq '.[] |= . + { "Certifications": [], "Function": "", "Legacy": "" }' $1 >> tmp.json
+## jq '.[] |= . + { "Certifications": [], "Function": "", "Legacy": "" }' $1 >> tmp.json
 
 # jq '.[] | {LeadTime, Certifications}' tmp.json 
 
@@ -22,6 +22,6 @@ rm -f tmp.json tmp2.json
 
 # jq '. | to_entries[] | select(.key | contains("/W/")) |= .value + {"Certifications": ["Watermark"]} + {"Legacy": .key}' tmp.json
 
-jq '. | to_entries[] | select(.key | contains("")) |= .value + {"Legacy": .key}' $1 >> tmp.json
+jq '. | to_entries[] | select(.key | contains("")) |= .value + {"Legacy": .key}' $1 >> step2.json
 
-jq '.' tmp.json
+jq '.' step2.json
