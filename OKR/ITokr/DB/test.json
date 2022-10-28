@@ -3138,5 +3138,45 @@
     "Certifications": [],
     "Function": "",
     "Legacy": ""
+  },
+  "PBA-39AHF": {
+    "Description": "Hands Free Production BOM",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1",
+    "Certifications": [],
+    "Function": "",
+    "Legacy": ""
+  },
+  "PBA-44CRS": {
+    "Description": "Chiller Refill Station Production BOMAssembly",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1",
+    "Certifications": [],
+    "Function": "",
+    "Legacy": ""
+  },
+  "PBA-45ABWRPT": {
+    "Description": "Wall Mounted P-Trap Option",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1",
+    "Certifications": [],
+    "Function": "",
+    "Legacy": ""
+  },
+  "PBA-46WRFC": {
+    "Description": "Wall Mounted Filter Compact Option",
+    "Supplier": "aquaBUBBLER",
+    "MBR": "0",
+    "RQ": "0",
+    "LeadTime": "1",
+    "Certifications": [],
+    "Function": "",
+    "Legacy": ""
   }
 }
