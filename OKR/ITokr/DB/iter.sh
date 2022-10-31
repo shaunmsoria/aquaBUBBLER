@@ -70,7 +70,7 @@ do
 		fi
 	fi
 	
-	printf "\n\t\"Key$count\":\n\t{\n\t\t\"SKU\":\"$sku\",\n\t\t\"Description\":\"$description\",\n\t\t\"Suppliers\":[\"$supplier\"],\n\t\t\"MBR\":\"$mbr\",\n\t\t\"RQ\":\"$rq\",\n\t\t\"LeadTime\":\"$leadtime\",\n\t\t\"Certifications\":[\"$certifications\"],\n\t\t\"Function\":\"$function\",\n\t\t\"MBP\":\"$mbp\",\n\t\t\"PT\":\"$pt\",\n\t\t\"Legacy\":\"$lSKU\"\n\t}," >> tmp.json
+	printf "\n\t\"Key$count\":\n\t{\n\t\t\"SKU\":\"$sku\",\n\t\t\"Description\":\"$description\",\n\t\t\"Suppliers\":[\"$supplier\"],\n\t\t\"MBR\":\"$mbr\",\n\t\t\"RQ\":\"$rq\",\n\t\t\"LeadTime\":\"$leadtime\",\n\t\t\"Certifications\":[\"$certifications\"],\n\t\t\"Function\":\"$function\",\n\t\t\"MBP\":\"$mbp\",\n\t\t\"PCTM\":\"$pt\",\n\t\t\"Legacy\":\"$lSKU\"\n\t}," >> tmp.json
 	((count=count+1))
 done
 
