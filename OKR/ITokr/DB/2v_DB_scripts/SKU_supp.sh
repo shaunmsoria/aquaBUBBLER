@@ -1,18 +1,19 @@
 #!/bin/bash
 
-rm -f tmp.json
+rm -f tmp.json tmp2.json
 
 Inventory=$1 
 JQ_reference=$2
 
+count=0
 printf "{" >> tmp.json
 
-while IFS="," read -r SKU Product Supplier Supplier_SKU Supplier_Product_Name Latest_Price Fixed_Price
+while IFS=",\"" read -r SKU Product Supplier Supplier_SKU Supplier_Product_Name Latest_Price Fixed_Price
 do
 	printf "\n$SKU\n"
-	sku=$(jq -r --arg sku_inv "$SKU" '.[] | select(.Legacy == $sku_inv)' $JQ_reference)
+	sku=$(jq -r --arg sku_inv "$SKU" '.[] | select(.Legacy == $sku_inv)' $JQ_reference | jq -r '.SKU' )
 	
-	description=$(jq -r --arg sku_inv "$SKU" --arg description_inv "$Product" '.[] | select(.Legacy == $sku_inv) | {Description}' $JQ_reference | jq '.Description')
+	description=$(jq -r --arg sku_inv "$SKU" --arg description_inv "$Product" '.[] | select(.Legacy == $sku_inv) | {Description}' $JQ_reference | jq -r '.Description')
 	printf "Description:$description\n"
 
 	if [[ ! -z "$description" ]]; then
@@ -27,6 +28,11 @@ do
 	supplierI=$Supplier
 	printf "SupplierInv:$supplierI\n"
 	supplierSKU=$Supplier_SKU
+	if [[ "$skuStatus" == "Active" ]]; then
+		supplier=$supplierJ
+	else
+		supplier=$supplierI
+	fi
 	printf "SupplierSKU:$supplierSKU\n"
 	supplierProductName=$Supplier_Product_Name
 	printf "SupplierProductName:$supplierProductName\n"
@@ -44,7 +50,12 @@ do
 	leadtime=$(jq -r --arg sku_inv "$SKU" '.[] | select(.Legacy == $sku_inv) | {LeadTime}' $JQ_reference | jq -r '.LeadTime' )
 	printf "LeadTime:$leadtime\n"
 
-	certifications=$(jq -r --arg sku_inv "$SKU" '.[] | select(.Legacy == $sku_inv) | {Certifications}' $JQ_reference | jq -r '.[][]')
+	certificationTest=$(jq -r --arg sku_inv "$SKU" '.[] | select(.Legacy == $sku_inv) | {Certifications}' $JQ_reference | jq -r '.[][]')
+	if [[ ! -z "$certificationTest" ]]; then
+		certifications=[\"$certificationTest\"]
+	else
+		certifications=[]
+	fi
 	printf "Certification:$certifications\n"
 
 	function=$(jq -r --arg sku_inv "$SKU" '.[] | select(.Legacy == $sku_inv) | {Function}' $JQ_reference | jq -r '.Function' )
@@ -61,6 +72,28 @@ do
 
 
 
-#	printf "$SKU, $Product, $Supplier, $Supplier_SKU, $Supplier_Product_Name, $Latest_Price, $Fixed_Price\n\n"
+	printf "\n\t\"Key$count\":" >> tmp.json
+	printf "\n\t{" >> tmp.json
+	printf "\n\t\t\"SKU\":\"$sku\"," >> tmp.json
+	printf "\n\t\t\"Description\":\"$description\"," >> tmp.json
+	printf "\n\t\t\"Status\":\"$skuStatus\"," >> tmp.json
+	printf "\n\t\t\"Supplier\":\"$supplier\"," >> tmp.json
+	printf "\n\t\t\"SupplierSKU\":\"$supplierSKU\"," >> tmp.json
+	printf "\n\t\t\"SupplierProductName\":\"$Supplier_Product_Name\"," >> tmp.json
+	printf "\n\t\t\"ItemLatestPrice\":$latestPrice," >> tmp.json
+	printf "\n\t\t\"ItemFixedPrice\":$fixedPrice," >> tmp.json
+	printf "\n\t\t\"MBR\":$mbr," >> tmp.json
+	printf "\n\t\t\"RQ\":$rq," >> tmp.json
+	printf "\n\t\t\"LeadTime\":$leadtime," >> tmp.json
+	printf "\n\t\t\"Certifications\":$certifications," >> tmp.json
+	printf "\n\t\t\"Function\":\"$function\"," >> tmp.json
+	printf "\n\t\t\"MBP\":$mbp," >> tmp.json
+	printf "\n\t\t\"PCTM\":$pctm," >> tmp.json
+	printf "\n\t\t\"Legacy\":\"$legacy\"" >> tmp.json
+	printf "\n\t}," >> tmp.json
+
+
+	count=$((count+1))
 done < <(tail -n +2 $Inventory)
 
+sed '$ s/.$/}/' tmp.json >> tmp2.json
