@@ -5,7 +5,7 @@ rm -f inv1.csv inv2.csv tmp.json tmp2.json
 file=$1
 
 sed 's/\"//g' $file >> inv1.csv
-sed 's///g' inv.csv >> inv2.csv
+sed 's///g' inv1.csv >> inv2.csv
 
 Inventory=inv.csv 
 JQ_reference=$2

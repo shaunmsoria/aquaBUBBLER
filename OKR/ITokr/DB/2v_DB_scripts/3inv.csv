@@ -2105,8 +2105,8 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 7557/ Classic aB,AB12HF/H10RB/FPRB/TY10 (O) ,Waterford Trading Production,,,705.041,705.041
 7561/ universal 2 aB,AB2UA14/H8DP/FPAQ/TM10/SPLG:3:780/SPSY:9:740/,Waterford Trading Production,,,705.041,705.041
 7562/ universal 2 aB,AB2UA14/H7AQ/FPSY/TM10/SPDP:3:680/SPLG:9:600/,Waterford Trading Production,,,705.041,705.041
-7563-65 / Classic aB,AB12/H8CW/FPCW/T10/	,Waterford Trading Production,,,705.041,705.041
-7563-7565 / Replacement Classic aB,AB12/H8CG/FPCG/T10/	,Waterford Trading Production,,,705.041,705.041
+7563-65 / Classic aB,"AB12/H8CW/FPCW/T10/	",Waterford Trading Production,,,705.041,705.041
+7563-7565 / Replacement Classic aB,"AB12/H8CG/FPCG/T10/	",Waterford Trading Production,,,705.041,705.041
 7566 / Classic aB,AB12/C15/H10CR/FPCR/T:10 ,Waterford Trading Production,,,705.041,705.041
 7567-7570 / Classic aB,AB12/H8GL/FPGL/T10/,Waterford Trading Production,,,705.041,705.041
 7571-73 Classic aB,AB12/H6CG/FPCG/TM10/ ,Waterford Trading Production,,,705.041,705.041
@@ -2193,18 +2193,18 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 7720-7725 / universal aB,ABUA13/H8PB/FPAQ/T10/F0/SPAQ:3:740/,Waterford Trading Production,,,705.041,705.041
 7726/ universal 2 aB,AB2UA14/H8CW/FPDB/T10/SPSY:3:650/SPLG:9:740/,Waterford Trading Production,,,705.041,705.041
 7727 / universal 2 aB,AB2UA14/H8CW/FPDB/T10/SPSY:3:650/SPLG:9:740/,Waterford Trading Production,,,705.041,705.041
-7728 / universal 2 aB,AB2UA14/H7CW/FPDB/T10/SPSY:3:600/SPLG:9:680/	,Waterford Trading Production,,,705.041,705.041
+7728 / universal 2 aB,"AB2UA14/H7CW/FPDB/T10/SPSY:3:600/SPLG:9:680/	",Waterford Trading Production,,,705.041,705.041
 7729 / universal 2 aB,AB2UA14/H6CW/FPDB/T10/SPSY:3:580/SPLG:9:580/,Waterford Trading Production,,,705.041,705.041
-7730 / universal 2 aB,AB2UA14/H8CW/FPDB/T10/SPSY:3:740/SPLG:9:740/	,Waterford Trading Production,,,705.041,705.041
-7731 / universal 2 aB,AB2UA14/H8CW/FPDB/T10/SPSY:3:740/SPLG:9:740/	,Waterford Trading Production,,,705.041,705.041
+7730 / universal 2 aB,"AB2UA14/H8CW/FPDB/T10/SPSY:3:740/SPLG:9:740/	",Waterford Trading Production,,,705.041,705.041
+7731 / universal 2 aB,"AB2UA14/H8CW/FPDB/T10/SPSY:3:740/SPLG:9:740/	",Waterford Trading Production,,,705.041,705.041
 7732 / classic aB,AB12/H10DB/FPDB/T10/VA/,Waterford Trading Production,,,705.041,705.041
 7733-34 / universal aB, ABUA13/H10LG/FPSY/TG10/C3/SPSY:3:740/,Waterford Trading Production,,,705.041,705.041
 7735-36 / Classic aB,AB12/H10CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 7737 / universal 2 aB, AB2UA14/H8PB/FPSY/TG10/SPDP:3:780/SPDP:9:650,Waterford Trading Production,,,705.041,705.041
 7738 / universal aB,ABUA13/H8PB/FPDP/TG2/SPTO:9:740/,Waterford Trading Production,,,705.041,705.041
 7739 / Classic aB,AB12/H10RB/FPRB/TB10/IN/C3/,Waterford Trading Production,,,705.041,705.041
-7740-41 / universal aB,ABUA13HF/H8CG/FPCG/TG10/SPCG:3:740/	,Waterford Trading Production,,,705.041,705.041
-7742-7745 / universal aB,ABUA13HF/H8CG/FPCG/T2/SPCG:9:740/	,Waterford Trading Production,,,705.041,705.041
+7740-41 / universal aB,"ABUA13HF/H8CG/FPCG/TG10/SPCG:3:740/	",Waterford Trading Production,,,705.041,705.041
+7742-7745 / universal aB,"ABUA13HF/H8CG/FPCG/T2/SPCG:9:740/	",Waterford Trading Production,,,705.041,705.041
 7747 / universal aB,  ABUA13/H8RB/FPRB/TB10/SPRB:3:740/,Waterford Trading Production,,,705.041,705.041
 7748-49 / classic aB,AB12/H6CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 7750-51 / Twin Refill aB,ABS14/CP/H13DB/C15/,Waterford Trading Production,,,705.041,705.041
@@ -2212,30 +2212,30 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 7754 / Twin Refill aB,ABS14/CP/H13DB/C15/,Waterford Trading Production,,,705.041,705.041
 7755 / Twin Refill aB,ABS14/CP/H15DB/C15/,Waterford Trading Production,,,705.041,705.041
 7756 / universal aB,ABUA13/H7DB/FPPB/TB2/SPPB:9:680/,Waterford Trading Production,,,705.041,705.041
-7757 / universal aB,ABUA13/H10DP/FPDP/T10/C3/SPDP:3:740/	,Waterford Trading Production,,,705.041,705.041
-7758 / universal aB,ABUA13/H10AQ/FPAQ/T10/C3/SPAQ:3:740/	,Waterford Trading Production,,,705.041,705.041
+7757 / universal aB,"ABUA13/H10DP/FPDP/T10/C3/SPDP:3:740/	",Waterford Trading Production,,,705.041,705.041
+7758 / universal aB,"ABUA13/H10AQ/FPAQ/T10/C3/SPAQ:3:740/	",Waterford Trading Production,,,705.041,705.041
 7759 / universal aB,ABUA13/H10TO/FPTO/T10/C3/SPTO:3:740/,Waterford Trading Production,,,705.041,705.041
 7760 / universal aB,ABUA13/H10CR/FPCR/T2/C3/SPCR:9:740/,Waterford Trading Production,,,705.041,705.041
 7761 / universal aB,ABUA13/H10SY/FPSY/T2/C3/SPSY:9:740/,Waterford Trading Production,,,705.041,705.041
-7762 / universal aB,ABUA13/H10PB/FPPB/T2/C3/SPPB:9:740/	,Waterford Trading Production,,,705.041,705.041
-7763 / Universal 2 aB,AB2UA14/H10PB/FPTO/TS10/SPLG:3:740/SPSY:9:930/	,Waterford Trading Production,,,705.041,705.041
+7762 / universal aB,"ABUA13/H10PB/FPPB/T2/C3/SPPB:9:740/	",Waterford Trading Production,,,705.041,705.041
+7763 / Universal 2 aB,"AB2UA14/H10PB/FPTO/TS10/SPLG:3:740/SPSY:9:930/	",Waterford Trading Production,,,705.041,705.041
 7764 / universal 2 aB,AB2UA14HF/H7RB/FPCW/TB10/SPPB:3:680/SPPB:9:600/,Waterford Trading Production,,,705.041,705.041
 7765 / universal 2 aB,AB2UA14HF/H7RB/FPCW/TB10/SPPB:3:600/SPPB:9:680/,Waterford Trading Production,,,705.041,705.041
 7766 / universal 2 aB,AB2UA14HF/H8RB/FPCW/TB10/SPPB:3:780/SPPB:9:740/,Waterford Trading Production,,,705.041,705.041
-7767-7768 / Classic aB,AB12/H6LG/FPLG/TG10/	,Waterford Trading Production,,,705.041,705.041
-7769-7770 / Classic aB,AB12/H6PB/FPPB/TB10/		,Waterford Trading Production,,,705.041,705.041
-7771-7772 / Classic aB,AB12/H6SY/FPSY/TY10/		,Waterford Trading Production,,,705.041,705.041
+7767-7768 / Classic aB,"AB12/H6LG/FPLG/TG10/	",Waterford Trading Production,,,705.041,705.041
+7769-7770 / Classic aB,"AB12/H6PB/FPPB/TB10/		",Waterford Trading Production,,,705.041,705.041
+7771-7772 / Classic aB,"AB12/H6SY/FPSY/TY10/		",Waterford Trading Production,,,705.041,705.041
 7773 / Classic aB,AB12/H6TO/FPTO/TR10/,Waterford Trading Production,,,705.041,705.041
 7774 / Classic aB,AB12/H7LG/FPLG/TG10/,Waterford Trading Production,,,705.041,705.041
 7775 / Classic aB,AB12/H7PB/FPPB/T10/,Waterford Trading Production,,,705.041,705.041
 7776 / Classic aB,AB12/H6DP/FPDP/T10/,Waterford Trading Production,,,705.041,705.041
-7777 / Classic aB,AB12/H7SY/FPSY/TY10/	,Waterford Trading Production,,,705.041,705.041
+7777 / Classic aB,"AB12/H7SY/FPSY/TY10/	",Waterford Trading Production,,,705.041,705.041
 7778 / Classic aB,AB12/H8CG/FPSY/TY10/,Waterford Trading Production,,,705.041,705.041
 7779-7782 / universal 2 aB,AB2UA14/H10CG/FPCG/TS10/SPCG:3:740/SPCG:9:930/,Waterford Trading Production,,,705.041,705.041
-7783-85 / Twin Refill aB,ABS14/CP/H15CG/C3/	,Waterford Trading Production,,,705.041,705.041
+7783-85 / Twin Refill aB,"ABS14/CP/H15CG/C3/	",Waterford Trading Production,,,705.041,705.041
 7786-7787 / WMR aB,ABWR21/PB/,Waterford Trading Production,,,705.041,705.041
 7788 / universal 2 aB,  AB2UA14/H8CG/FPCW/T10/SPCW:3:650/SPCW:9:740/,Waterford Trading Production,,,705.041,705.041
-7789 / Twin Refill aB,ABS14/CP/H13RB/F0/C3/	,Waterford Trading Production,,,705.041,705.041
+7789 / Twin Refill aB,"ABS14/CP/H13RB/F0/C3/	",Waterford Trading Production,,,705.041,705.041
 7790 / Twin Refill aB,Twin Refill aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
 7791 / Twin Refill aB,Twin Refill aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
 7792-93 / universal 2 aB, AB2UA14/H8CW/FPDB/T10/SPSY:3:650/SPLG:9:740/,Waterford Trading Production,,,705.041,705.041
@@ -2253,11 +2253,11 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 7811 / universal aB,ABUA13/H7PB/FPLG/TG10/SPLG:3:680/,Waterford Trading Production,,,705.041,705.041
 7812 / Classic aB,AB12/GT:12/H7DB/FPSY/TY10,Waterford Trading Production,,,705.041,705.041
 7813 / universal aB,ABUA13/H8CG/FPCG/T10/SPCG:3:740/,Waterford Trading Production,,,705.041,705.041
-7814 / universal aB,ABUA13/H8CG/FPCG/T2/SPCG:9:740/	,Waterford Trading Production,,,705.041,705.041
-7815 / universal aB,ABUA13/H7CG/FPCG/T2/SPCG:9:680/	,Waterford Trading Production,,,705.041,705.041
+7814 / universal aB,"ABUA13/H8CG/FPCG/T2/SPCG:9:740/	",Waterford Trading Production,,,705.041,705.041
+7815 / universal aB,"ABUA13/H7CG/FPCG/T2/SPCG:9:680/	",Waterford Trading Production,,,705.041,705.041
 7816-7817 / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
-7818-7819 / universal aB ,ABUA13/H6CG/FPCG/T2/SPCG:9:580/	,Waterford Trading Production,,,705.041,705.041
-7820 / universal aB,ABUA13/H6CW/FPCW/T10/SPCW:3:580/	,Waterford Trading Production,,,705.041,705.041
+7818-7819 / universal aB ,"ABUA13/H6CG/FPCG/T2/SPCG:9:580/	",Waterford Trading Production,,,705.041,705.041
+7820 / universal aB,"ABUA13/H6CW/FPCW/T10/SPCW:3:580/	",Waterford Trading Production,,,705.041,705.041
 7821 / Classic aB,AB12/H10CG/FPCG/T2/C3/,Waterford Trading Production,,,705.041,705.041
 7822/ Classic aB,AB12/H8RB/FPRB/TB10/,Waterford Trading Production,,,705.041,705.041
 7823 / Classic aB,AB12/H7RB/FPRB/TB10/,Waterford Trading Production,,,705.041,705.041
@@ -2267,32 +2267,32 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 7832 / Classic aB, AB12/H8CG/FPSY/TY10/,Waterford Trading Production,,,705.041,705.041
 7833-7835 / Classic aB,AB12/H7CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 7836 / Classic aB,AB12/H6AQ/FPAQ/TB10/,Waterford Trading Production,,,705.041,705.041
-7837-7838 / Classic aB,AB12/H8DB/FPSY/TY10/	,Waterford Trading Production,,,705.041,705.041
-7839-7840 / Classic aB,AB12/H7LG/FPLG/T10/	,Waterford Trading Production,,,705.041,705.041
+7837-7838 / Classic aB,"AB12/H8DB/FPSY/TY10/	",Waterford Trading Production,,,705.041,705.041
+7839-7840 / Classic aB,"AB12/H7LG/FPLG/T10/	",Waterford Trading Production,,,705.041,705.041
 7841-7842 / Classic aB,AB12/H7TO/FPTO/T10/,Waterford Trading Production,,,705.041,705.041
 7843 / Classic aB,AB12/H7PB/FPPB/T10/,Waterford Trading Production,,,705.041,705.041
 7844 / Classic aB,AB12/H8PB/FPPB/T10/,Waterford Trading Production,,,705.041,705.041
 7845-7848 / Classic aB,AB12/H8TO/FPTO/T10/,Waterford Trading Production,,,705.041,705.041
 7850-7853 / universal 2 aB,AB2UA14/H7RB/FPLG/TG10/SPRB:3:680/SPRB:9:680,Waterford Trading Production,,,705.041,705.041
 7854+7849,ABWR21/DB/FC/,Waterford Trading Production,,,705.041,705.041
-7855 / Classic aB,AB12/H8DP/FPDP/TS10/	,Waterford Trading Production,,,705.041,705.041
-7856 / Classic aB,AB12/H8SY/FPSY/T10/	,Waterford Trading Production,,,705.041,705.041
-7857 / Classic aB,AB12/H8RB/FPRB/T10/	,Waterford Trading Production,,,705.041,705.041
+7855 / Classic aB,"AB12/H8DP/FPDP/TS10/	",Waterford Trading Production,,,705.041,705.041
+7856 / Classic aB,"AB12/H8SY/FPSY/T10/	",Waterford Trading Production,,,705.041,705.041
+7857 / Classic aB,"AB12/H8RB/FPRB/T10/	",Waterford Trading Production,,,705.041,705.041
 7858 / Classic aB,AB12/H8LG/FPLG/T10/,Waterford Trading Production,,,705.041,705.041
 7859 / Classic aB,AB12/H8DP/FPDP/T10/,Waterford Trading Production,,,705.041,705.041
-7860 / Classic aB,AB12/H7RB/FPRB/TB10/	,Waterford Trading Production,,,705.041,705.041
+7860 / Classic aB,"AB12/H7RB/FPRB/TB10/	",Waterford Trading Production,,,705.041,705.041
 7861-7862 / Classic aB,AB12/H8CG/FPCG/TS10/,Waterford Trading Production,,,705.041,705.041
 7863 / universal 2 aB,AB2UA14/H8DP/FPDP/TS10/SPDP:3:780/SPDP:9:780/,Waterford Trading Production,,,705.041,705.041
 7864 / universal aB,  ABUA13/H8RB/FPSY/TS10/GT:12/SPSY:3:650/,Waterford Trading Production,,,705.041,705.041
 7865-7866 / Wall Mount Refill aB,ABWR21/PB/,Waterford Trading Production,,,705.041,705.041
 7867-7868 / Classic aB, AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 7869 / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
-7870 / Classic aB,AB12/H10RB/FPRB/T10/C3/	,Waterford Trading Production,,,705.041,705.041
+7870 / Classic aB,"AB12/H10RB/FPRB/T10/C3/	",Waterford Trading Production,,,705.041,705.041
 7871 / universal aB,ABUA13/H8CG/FPCG/TS10/SPCG:3:740/,Waterford Trading Production,,,705.041,705.041
 7872-7873 / Classic aB,AB12/H8DB/FPSY/TY10/,Waterford Trading Production,,,705.041,705.041
 7874 / Classic aB,AB12/H7RB/FPSY/TY10/,Waterford Trading Production,,,705.041,705.041
-7875 / universal aB,ABUA13/H8PB/FPPB/TS10/SPPB:3:780/	,Waterford Trading Production,,,705.041,705.041
-7876 / Twin Refill aB,ABS14/CP/H15CG/C3/	,Waterford Trading Production,,,705.041,705.041
+7875 / universal aB,"ABUA13/H8PB/FPPB/TS10/SPPB:3:780/	",Waterford Trading Production,,,705.041,705.041
+7876 / Twin Refill aB,"ABS14/CP/H15CG/C3/	",Waterford Trading Production,,,705.041,705.041
 7877-7878 / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 7879 / Universal aB,ABUA13/H8DB/FPPB/TB10/SPPB:3:740/,Waterford Trading Production,,,705.041,705.041
 7880-7883 / Classic aB,Classic aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
@@ -2302,62 +2302,62 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 7888 / Classic aB,AB12/H10CG/FPCG/T10/C15/,Waterford Trading Production,,,705.041,705.041
 7889 / Classic aB,AB12/H7CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 7890 / Classic aB,AB12/H10SY/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
-7891-7898 / universal 2 aB,AB2UA14/H10CG/FPCG/TS10/GT:12/SPCG:3:930/SPCG:9:740/	,Waterford Trading Production,,,705.041,705.041
+7891-7898 / universal 2 aB,"AB2UA14/H10CG/FPCG/TS10/GT:12/SPCG:3:930/SPCG:9:740/	",Waterford Trading Production,,,705.041,705.041
 7891-7900 / universal 2 aB,Garden Tap,Waterford Trading Production,,,705.041,705.041
-7899-7900 / universal 2 aB,AB2UA14/H10CG/FPCG/TS10/DG:12/GT:12/SPCG:3:930/SPCG:9:740/	,Waterford Trading Production,,,705.041,705.041
-7901 / Classic aB,AB12/H6RB/FPRB/TB10/IN/	,Waterford Trading Production,,,705.041,705.041
-7902-7905 / Classic aB,AB12/H7RB/FPRB/TB10/IN/	,Waterford Trading Production,,,705.041,705.041
+7899-7900 / universal 2 aB,"AB2UA14/H10CG/FPCG/TS10/DG:12/GT:12/SPCG:3:930/SPCG:9:740/	",Waterford Trading Production,,,705.041,705.041
+7901 / Classic aB,"AB12/H6RB/FPRB/TB10/IN/	",Waterford Trading Production,,,705.041,705.041
+7902-7905 / Classic aB,"AB12/H7RB/FPRB/TB10/IN/	",Waterford Trading Production,,,705.041,705.041
 7906 / universal aB,ABUA13/H6CG/FPCR/TR10/F0/C3/SPCR:3:580/,Waterford Trading Production,,,705.041,705.041
 7907 / Classic aB,AB12/H7CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 7908 / Universal aB,ABUA13/H8CW/FPCW/T10/SPCW:3:740/,Waterford Trading Production,,,705.041,705.041
 7909 / universal aB ,ABUA13/H7CW/FPCW/TS2/C3/SPCW:9:600/,Waterford Trading Production,,,705.041,705.041
 7910-7912 / Classic aB,AB12/H7AQ/FPSY/TG10/C3/,Waterford Trading Production,,,705.041,705.041
 7913/ Classic aB,AB12/H7SY/FPCR/TB10/,Waterford Trading Production,,,705.041,705.041
-7914 / Classic aB,AB12/H6DB/FPSY/TY10/	,Waterford Trading Production,,,705.041,705.041
+7914 / Classic aB,"AB12/H6DB/FPSY/TY10/	",Waterford Trading Production,,,705.041,705.041
 7915-7916 / Classic aB,AB12/H10DP/FPAQ/TS10,Waterford Trading Production,,,705.041,705.041
-7917 / universal 2 aB,AB2UA14/H10PB/FPAQ/TS10/SPLG:3:800/SPDP:9:740/	,Waterford Trading Production,,,705.041,705.041
-7918 / universal aB,ABUA13/H10RB/FPCR/T10/SPCR:3:740/	,Waterford Trading Production,,,705.041,705.041
+7917 / universal 2 aB,"AB2UA14/H10PB/FPAQ/TS10/SPLG:3:800/SPDP:9:740/	",Waterford Trading Production,,,705.041,705.041
+7918 / universal aB,"ABUA13/H10RB/FPCR/T10/SPCR:3:740/	",Waterford Trading Production,,,705.041,705.041
 7919-7920 / Twin Refill aB,ABS14/AP/H15CG,Waterford Trading Production,,,705.041,705.041
 7921-7922 / universal aB,ABUA13/H7CG/FPCG/TS10/SPCG:3:600/,Waterford Trading Production,,,705.041,705.041
 7923 / universal aB,ABUA13/H8CG/FPCG/TS2/SPCG:9:740/,Waterford Trading Production,,,705.041,705.041
 7924 / universal aB,ABUA13/H10CG/FPCG/TS10/SPCG:3:740/,Waterford Trading Production,,,705.041,705.041
 7925-7927 / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 7928 / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
-7931-7932 / Universal aB,ABUA13/H7LG/FPTO/TS10/SPTO:3:600/	,Waterford Trading Production,,,705.041,705.041
+7931-7932 / Universal aB,"ABUA13/H7LG/FPTO/TS10/SPTO:3:600/	",Waterford Trading Production,,,705.041,705.041
 7933 / universal aB,ABUA13/H7PB/FPPB/TS10/C3/SPCW:3:600/,Waterford Trading Production,,,705.041,705.041
 7934 / Classic aB,AB12/H10PB/FPPB/TS10/VA/C15/,Waterford Trading Production,,,705.041,705.041
 7936 / universal aB,ABUA13/H8TO/FPTO/TS10/DG:3/SPTO:3:740/,Waterford Trading Production,,,705.041,705.041
-7937 / universal aB,ABUA13/H10CG/FPCG/TS2/SPCG:9:800/	,Waterford Trading Production,,,705.041,705.041
+7937 / universal aB,"ABUA13/H10CG/FPCG/TS2/SPCG:9:800/	",Waterford Trading Production,,,705.041,705.041
 7938 / universal aB, ABUA13/H8CG/FPCG/T2/SPCG:9:740/,Waterford Trading Production,,,705.041,705.041
 7939-7940 / Classic aB,AB12/H7LG/FPLG/T10/,Waterford Trading Production,,,705.041,705.041
 7941 / Classic aB,AB12/H8PB/FPSY/TB10/GT:12/,Waterford Trading Production,,,705.041,705.041
 7942 / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 7943-44 / Universal aB, AB2UA14/H10CG/FPCG/T10/SPCG:3:740/SPCG:9:740/,Waterford Trading Production,,,705.041,705.041
-7945 / Classic aB,AB12/H8CR/FPCR/T10/C3/	,Waterford Trading Production,,,705.041,705.041
-7946 / Universal aB,AB2UA14/H8CR/FPCR/T10/C3/SPCR:3:780/SPCR:9:780/	,Waterford Trading Production,,,705.041,705.041
-7947-7948 / Classic Hands Free aB,AB12HF/H10CG/FPCG/T10/F0/C3/	,Waterford Trading Production,,,705.041,705.041
+7945 / Classic aB,"AB12/H8CR/FPCR/T10/C3/	",Waterford Trading Production,,,705.041,705.041
+7946 / Universal aB,"AB2UA14/H8CR/FPCR/T10/C3/SPCR:3:780/SPCR:9:780/	",Waterford Trading Production,,,705.041,705.041
+7947-7948 / Classic Hands Free aB,"AB12HF/H10CG/FPCG/T10/F0/C3/	",Waterford Trading Production,,,705.041,705.041
 7949-7950 / Classic aB,AB12/H7RB/FPRB/TB10/IN/F0/,Waterford Trading Production,,,705.041,705.041
-7951 / Twin Refill aB,ABS14/H15DB/	,Waterford Trading Production,,,705.041,705.041
-7951 / Twin Refill aB Test,ABS14/H15DB/	,Waterford Trading Production,,,705.041,705.041
-7952 / Universal aB,ABUA13/H7PB/FPCR/T10/SPCW:3:680/	,Waterford Trading Production,,,705.041,705.041
+7951 / Twin Refill aB,"ABS14/H15DB/	",Waterford Trading Production,,,705.041,705.041
+7951 / Twin Refill aB Test,"ABS14/H15DB/	",Waterford Trading Production,,,705.041,705.041
+7952 / Universal aB,"ABUA13/H7PB/FPCR/T10/SPCW:3:680/	",Waterford Trading Production,,,705.041,705.041
 7953-7955 / Classic aB,AB12/H10PB/FPPB/TB10/C15/FT/,Waterford Trading Production,,,705.041,705.041
-7956 / Classic aB,AB12/H8TO/FPSY/TY10/VA/C3/	,Waterford Trading Production,,,705.041,705.041
+7956 / Classic aB,"AB12/H8TO/FPSY/TY10/VA/C3/	",Waterford Trading Production,,,705.041,705.041
 7957 / Classic aB,AB12/H10CR/FPCR/T10/,Waterford Trading Production,,,705.041,705.041
-7958-7959 / Twin Refill aB,ABS14/H15CR/F0/BP/	,Waterford Trading Production,,,705.041,705.041
+7958-7959 / Twin Refill aB,"ABS14/H15CR/F0/BP/	",Waterford Trading Production,,,705.041,705.041
 7960 / Wall Mount Refill aB,ABWR21/CG/,Waterford Trading Production,,,705.041,705.041
 7961 / Universal aB,ABUA13/H7LG/FPSY/TY10/IN/SPSY:3:680/,Waterford Trading Production,,,705.041,705.041
 7962-7965 / Universal aB,ABUA13/H8LG/FPSY/TY10/IN/SPSY:3:740/,Waterford Trading Production,,,705.041,705.041
 7966 / Classic aB, AB12/H8CG/FPCG/T10/DG:3/IN/,Waterford Trading Production,,,705.041,705.041
 7969-7970 / Classic aB,AB12/H7GL/FPTO/T10/F0/,Waterford Trading Production,,,705.041,705.041
 7971/ Classic aB,AB12/H7DB/FPDB/T10/,Waterford Trading Production,,,705.041,705.041
-7972 / Universal aB,ABUA13/H7CG/FPCG/T10/SPCG:3:680/	,Waterford Trading Production,,,705.041,705.041
-7973 / Universal aB,ABUA13/H7CG/FPCG/T2/SPCG:9:680/	,Waterford Trading Production,,,705.041,705.041
-7974-7975 / Universal 2 aB,AB2UA14/H6RB/FPLG/T10/SPCR:3:580/SPSY:9:580/	,Waterford Trading Production,,,705.041,705.041
+7972 / Universal aB,"ABUA13/H7CG/FPCG/T10/SPCG:3:680/	",Waterford Trading Production,,,705.041,705.041
+7973 / Universal aB,"ABUA13/H7CG/FPCG/T2/SPCG:9:680/	",Waterford Trading Production,,,705.041,705.041
+7974-7975 / Universal 2 aB,"AB2UA14/H6RB/FPLG/T10/SPCR:3:580/SPSY:9:580/	",Waterford Trading Production,,,705.041,705.041
 7976 / aB Universal,AB2UA14/H7LG/FPGL/TG10/C3/SPGL:3:680/SPGL:9:680/,Waterford Trading Production,,,705.041,705.041
 7977 / aB Classic,AB12/H10CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 7978 / universal aB,ABUA13/H10CG/FPRB/T10/SPRB:3:740/,Waterford Trading Production,,,705.041,705.041
-7979 / Universal aB,ABUA13/H10CG/FPCG/TS2/SPCG:9:800/	,Waterford Trading Production,,,705.041,705.041
-7980 / Universal aB,ABUA13/H10CG/FPCG/T10/GT:12/SPCG:3:740/	,Waterford Trading Production,,,705.041,705.041
+7979 / Universal aB,"ABUA13/H10CG/FPCG/TS2/SPCG:9:800/	",Waterford Trading Production,,,705.041,705.041
+7980 / Universal aB,"ABUA13/H10CG/FPCG/T10/GT:12/SPCG:3:740/	",Waterford Trading Production,,,705.041,705.041
 7981 - 7982 / Twin Refill aB,ABS14HF_HANDS_FREE/CP/LPRPH15CR/F0/C3/,Waterford Trading Production,,,705.041,705.041
 7983 - 7984  / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 7985 / Universal aB,ABUA13/H6PB/FPTO/TB10/F0/SPLG:3:580/,Waterford Trading Production,,,705.041,705.041
@@ -2365,7 +2365,7 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 7988 / universal aB,ABUA13/H6PB/FPTO/TR10/SPLG:3:580/,Waterford Trading Production,,,705.041,705.041
 7989-7994/AB12/H7LG/FPCR/TR10/,Classic aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
 7995/AB2UA14/H7LG/FPSY/TG10/SPSY:3:680/SPSY:9:600/,Universal 2 aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
-7996-8003/ABUA13/H7SY/FPAQ/TY10/SPAQ:3:680/	,universal aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
+"7996-8003/ABUA13/H7SY/FPAQ/TY10/SPAQ:3:680/	",universal aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
 8004 / Universal 2 aB,  AB2UA14/H8CG/FPCW/T10/SPCW:3:650/SPCW:9:740/,Waterford Trading Production,,,705.041,705.041
 8005-8006 / Universal aB,ABUA13/H8RB/FPCG/T10/SPCG:3:740/,Waterford Trading Production,,,705.041,705.041
 8007 / Universal aB, ABUA13/H8RB/FPCG/T2/SPCG:9:740/,Waterford Trading Production,,,705.041,705.041
@@ -2373,25 +2373,25 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 8008/AB12/H7CG/FPCG/T10/,Classic aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
 8009-10/AB12/H8CG/FPCG/T10/,Classic aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
 8009-8010 / aB Classic,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
-8011 / Universal 2 aB,AB2UA14/H7PB/FPSY/TS10/SPSY:3:680/SPDP:9:680/	,Waterford Trading Production,,,705.041,705.041
+8011 / Universal 2 aB,"AB2UA14/H7PB/FPSY/TS10/SPSY:3:680/SPDP:9:680/	",Waterford Trading Production,,,705.041,705.041
 8012 / Classic aB,AB12/H10DB/FPDB/TB10/,Waterford Trading Production,,,705.041,705.041
 8013 / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 8014 / aB Classic,AB12/H8CG/FPSY/T10/,Waterford Trading Production,,,705.041,705.041
 8015 / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 8016 / Classic aB,AB12/H7PB/FPCR/TB10/VA/,Waterford Trading Production,,,705.041,705.041
-8017 / Universal 2 aB, AB2UA14/H10CG/FPSY/TY10/SPSY:3:930/SPSY:9:740/	,Waterford Trading Production,,,705.041,705.041
+8017 / Universal 2 aB," AB2UA14/H10CG/FPSY/TY10/SPSY:3:930/SPSY:9:740/	",Waterford Trading Production,,,705.041,705.041
 8018 / universal 2 aB,AB2UA14/H8RB/FPLG/T10/GT:12/SPLG:3:780/SPLG:9:780/,Waterford Trading Production,,,705.041,705.041
 8019 / universal 2 aB,AB2UA14/H8RB/FPLG/T10/SPLG:3:780/SPLG:9:780/,Waterford Trading Production,,,705.041,705.041
-8020 / Universal aB,ABUA13/H8CG/FPCG/T10/SPCG:3:740/	,Waterford Trading Production,,,705.041,705.041
+8020 / Universal aB,"ABUA13/H8CG/FPCG/T10/SPCG:3:740/	",Waterford Trading Production,,,705.041,705.041
 8021-8024 / Universal aB,ABUA13/H10CG/FPCG/T10/SPCG:3:740/,Waterford Trading Production,,,705.041,705.041
 8025 / Classic aB,AB12/H8PB/FPLG/TB10/F0/C3/,Waterford Trading Production,,,705.041,705.041
-8026 / Classic aB,AB12/H10DB/FPSY/TY10/	,Waterford Trading Production,,,705.041,705.041
+8026 / Classic aB,"AB12/H10DB/FPSY/TY10/	",Waterford Trading Production,,,705.041,705.041
 8027-8033 / Classic aB,AB12/H10PB/FPPB/TB10/,Waterford Trading Production,,,705.041,705.041
 8034-8036 / Wall Mount Refill aB,ABWR21/PB/,Waterford Trading Production,,,705.041,705.041
 8037 / Universal aB,ABUA13/H10CW/FPCW/T10/SPCW:3:740/,Waterford Trading Production,,,705.041,705.041
 8038-8039 / Universal aB,ABUA13/H10CW/FPCW/T2/SPCW:9:740/,Waterford Trading Production,,,705.041,705.041
 8040 / Classic aB,AB12/H7RB/FPTO/T10/VA,Waterford Trading Production,,,705.041,705.041
-8041/ Classic aB,AB12/H10PB/FPLG/T10/F0/GT:12/	,Waterford Trading Production,,,705.041,705.041
+8041/ Classic aB,"AB12/H10PB/FPLG/T10/F0/GT:12/	",Waterford Trading Production,,,705.041,705.041
 8042 / Twin Refill aB,ABS14/CP/H15CG/,Waterford Trading Production,,,705.041,705.041
 8043 / Classic aB,AB12/H10SY/FPLG/TY10/,Waterford Trading Production,,,705.041,705.041
 8044 / ABWMR ,ABWR21/RB/FC/C3/,Waterford Trading Production,,,705.041,705.041
@@ -2401,23 +2401,23 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 8049-8050 / ABWMR,ABWR21/DB/,Waterford Trading Production,,,705.041,705.041
 8051 / Classic aB,Classic aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
 8052-8054 / Classic aB,Classic aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
-8055-8056 / universal aB,AB2UA14/H7GL/FPGL/TG10/SPGL:3:600/SPGL:9:600/	,Waterford Trading Production,,,705.041,705.041
+8055-8056 / universal aB,"AB2UA14/H7GL/FPGL/TG10/SPGL:3:600/SPGL:9:600/	",Waterford Trading Production,,,705.041,705.041
 8057 / Classic aB,AB12/H10RB/FPRB/T10/DG:12/,Waterford Trading Production,,,705.041,705.041
-8058-8059 / Classic aB,AB12/H7RB/FPRB/TB10/VA/	,Waterford Trading Production,,,705.041,705.041
+8058-8059 / Classic aB,"AB12/H7RB/FPRB/TB10/VA/	",Waterford Trading Production,,,705.041,705.041
 8060-8061 / Classic aB,AB12/H7CG/FPGL/T10/F0/,Waterford Trading Production,,,705.041,705.041
 8062-8063 / Universal aB,ABUA13/H8CG/FPGL/T2/F0/SPGL:9:740/,Waterford Trading Production,,,705.041,705.041
-8064 / universal aB,ABUA13/H8RB/FPRB/TB10/SPRB:3:740/	,Waterford Trading Production,,,705.041,705.041
+8064 / universal aB,"ABUA13/H8RB/FPRB/TB10/SPRB:3:740/	",Waterford Trading Production,,,705.041,705.041
 8065 / universal aB,ABUA13/H7CG/FPCG/T10/SPCG:3:600/,Waterford Trading Production,,,705.041,705.041
 8066 / Classic aB,AB12/H6CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
-8067 / Classic aB,AB12/H8CG/FPCG/T10/	,Waterford Trading Production,,,705.041,705.041
+8067 / Classic aB,"AB12/H8CG/FPCG/T10/	",Waterford Trading Production,,,705.041,705.041
 8068 / Classic aB,AB12/H8DB/FPDB/TB10/,Waterford Trading Production,,,705.041,705.041
 8069 / Classic aB,AB12/H8PB/FPPB/TB10/F0/C3/,Waterford Trading Production,,,705.041,705.041
-8070-8071 / Universal aB,ABUA13/H8CG/FPTO/T10/SPTO:3:740/	,Waterford Trading Production,,,705.041,705.041
+8070-8071 / Universal aB,"ABUA13/H8CG/FPTO/T10/SPTO:3:740/	",Waterford Trading Production,,,705.041,705.041
 8072 / Universal aB,ABUA13/H8CG/FPTO/T10/F0/C15/SPTO:3:780/,Waterford Trading Production,,,705.041,705.041
 8073 / Wall Mount Refill aB,ABWR21/LG/,Waterford Trading Production,,,705.041,705.041
 8074-8075 / Universal 2 aB,AB2UA14/H8CG/FPCG/T10/SPCG:3:650/SPCG:9:740/,Waterford Trading Production,,,705.041,705.041
 8076 / Universal aB,ABUA13/H7AQ/FPTO/T2/SPTO:9:680/,Waterford Trading Production,,,705.041,705.041
-8077/ Universal aB,ABUA13/H7PB/FPPB/T10/SPPB:3:680/	,Waterford Trading Production,,,705.041,705.041
+8077/ Universal aB,"ABUA13/H7PB/FPPB/T10/SPPB:3:680/	",Waterford Trading Production,,,705.041,705.041
 8078 / Classic aB,AB12/H7DB/FPCR/TR10/WM/GT:12/C3/,Waterford Trading Production,,,705.041,705.041
 8079-8080 / Wall mount refill aB,ABWR21/GL/C3A,Waterford Trading Production,,,705.041,705.041
 8081-8082 / Wall mount refill aB,ABWR21/PB/C3B,Waterford Trading Production,,,705.041,705.041
@@ -2426,23 +2426,23 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 8087 / Classic aB,AB12/H6GL/FPGL/TG10/,Waterford Trading Production,,,705.041,705.041
 8088 / Twin Refill Station aB,ABS14/H15RB/F0/,Waterford Trading Production,,,705.041,705.041
 8089-8091 / Universal aB,ABUA13/H7DB/FPCR/T10/SPCR:3:680/,Waterford Trading Production,,,705.041,705.041
-8092 - 8096 / Universal aB,ABUA13/H8CG/FPCG/T10/SPCG:3:740/	,Waterford Trading Production,,,705.041,705.041
+8092 - 8096 / Universal aB,"ABUA13/H8CG/FPCG/T10/SPCG:3:740/	",Waterford Trading Production,,,705.041,705.041
 8097 / Classic aB,AB12/H7DB/FPDB/T10/F0/,Waterford Trading Production,,,705.041,705.041
-8098-8100 / Classic aB,AB12/H8CG/FPCG/T10/	,Waterford Trading Production,,,705.041,705.041
-8101-8103 / Classic aB,AB12/H8GL/FPSY/TY10/VA/	,Waterford Trading Production,,,705.041,705.041
+8098-8100 / Classic aB,"AB12/H8CG/FPCG/T10/	",Waterford Trading Production,,,705.041,705.041
+8101-8103 / Classic aB,"AB12/H8GL/FPSY/TY10/VA/	",Waterford Trading Production,,,705.041,705.041
 8104-8105 / Universal aB,ABUA13/H8CG/FPCG/T10/SPCG:3:740/,Waterford Trading Production,,,705.041,705.041
-8106-8114 / Universal aB,ABUA13/H8CG/FPCG/T2/SPCG:9:740/	,Waterford Trading Production,,,705.041,705.041
+8106-8114 / Universal aB,"ABUA13/H8CG/FPCG/T2/SPCG:9:740/	",Waterford Trading Production,,,705.041,705.041
 8115-8124 / Wall Mount Refill aB,ABWR21/CW/P/,Waterford Trading Production,,,705.041,705.041
 8125-8126 / Wall Mount Refill aB,ABWR21/CW/P/,Waterford Trading Production,,,705.041,705.041
-8127-8128 / Classic Hands Free aB,AB12HF/H7DB/FPTO/TB10/	,Waterford Trading Production,,,705.041,705.041
-8129 / Classic Hands Free aB,AB12HF/H8DB/FPTO/TB10/	,Waterford Trading Production,,,705.041,705.041
+8127-8128 / Classic Hands Free aB,"AB12HF/H7DB/FPTO/TB10/	",Waterford Trading Production,,,705.041,705.041
+8129 / Classic Hands Free aB,"AB12HF/H8DB/FPTO/TB10/	",Waterford Trading Production,,,705.041,705.041
 8130-8132 / Universal 2 aB,AB2UA14/H7CG/FPSY/T10/SPRB:3:600/SPPB:9:680/,Waterford Trading Production,,,705.041,705.041
 8134-8138 / Classic aB,AB12/H7CG/FPSY/T10/,Waterford Trading Production,,,705.041,705.041
 8139-8141 / Universal aB,ABUA13/H8CG/FPSY/T10/GT:12/SPSY:3:740/,Waterford Trading Production,,,705.041,705.041
 8142-8144 / Universal aB,ABUA13/H8CG/FPSY/T2/GT:12/SPSY:9:740/,Waterford Trading Production,,,705.041,705.041
 8145-8146 / Classic aB,AB12/H7CG/FPSY/T10/,Waterford Trading Production,,,705.041,705.041
 8147 / Classic aB,AB12/H6CG/FPSY/T10/,Waterford Trading Production,,,705.041,705.041
-8148  / Classic aB,AB12/H7TO/FPDB/T10/VA/	,Waterford Trading Production,,,705.041,705.041
+8148  / Classic aB,"AB12/H7TO/FPDB/T10/VA/	",Waterford Trading Production,,,705.041,705.041
 8149 / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 8150 / Classic aB,AB12/H8RB/FPRB/TB10/,Waterford Trading Production,,,705.041,705.041
 8151 / Classic aB,AB12/H8CR/FPCR/TR10,Waterford Trading Production,,,705.041,705.041
@@ -2458,13 +2458,13 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 8168-8169 / Universal aB,ABUA13/H8AQ/FPRB/T10/SPRB:3:740/,Waterford Trading Production,,,705.041,705.041
 8170-8171 / Classic aB,AB12/H8AQ/FPRB/T10/,Waterford Trading Production,,,705.041,705.041
 8173 / Universal aB,ABUA13/H7CG/FPCG/T2/C3ASPCG:9:680/,Waterford Trading Production,,,705.041,705.041
-8174-8175/ Classic aB,AB12/H10DB/FPPB/TR10/	,Waterford Trading Production,,,705.041,705.041
+8174-8175/ Classic aB,"AB12/H10DB/FPPB/TR10/	",Waterford Trading Production,,,705.041,705.041
 8176 / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 8177 / Universal aB,ABUA13/H8RB/FPCR/TG10/C3ASPLG:3:740/,Waterford Trading Production,,,705.041,705.041
-8178-8179 / Classic aB,AB12/H8RB/FPRB/T10/	,Waterford Trading Production,,,705.041,705.041
-8180 / Classic aB,AB12/H8CG/FPCG/T10/	,Waterford Trading Production,,,705.041,705.041
+8178-8179 / Classic aB,"AB12/H8RB/FPRB/T10/	",Waterford Trading Production,,,705.041,705.041
+8180 / Classic aB,"AB12/H8CG/FPCG/T10/	",Waterford Trading Production,,,705.041,705.041
 8182 / Classic aB,AB12/H8DB/FPDB/TB10/,Waterford Trading Production,,,705.041,705.041
-8183-8184 / Universal aB,ABUA13/H10CG/FPCG/T2/F0/SPCG:9:740/	,Waterford Trading Production,,,705.041,705.041
+8183-8184 / Universal aB,"ABUA13/H10CG/FPCG/T2/F0/SPCG:9:740/	",Waterford Trading Production,,,705.041,705.041
 8187-8188 / Universal aB,ABUA13/H7DB/FPDB/TB10/VA/SPDB:3:600,Waterford Trading Production,,,705.041,705.041
 8189-8190 / Wall Mount Refill aB,ABWR21/CG/T/FC/,Waterford Trading Production,,,705.041,705.041
 8192-8193 / Universal 2 aB,AB2UA14/H7CW/FPCW/TB10/SPCW:3:680/SPCW:9:600/,Waterford Trading Production,,,705.041,705.041
@@ -2472,7 +2472,7 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 8196-8197 / Classic aB,AB12/H10SY/FPSY/T10/IN/,Waterford Trading Production,,,705.041,705.041
 8198 / Universal aB,ABUA13/H10SY/FPSY/T2/IN/SPSY:9:740/,Waterford Trading Production,,,705.041,705.041
 8199 / Universal aB,ABUA13/H8DB/FPDB/T10/SPDB:3:740/,Waterford Trading Production,,,705.041,705.041
-8200 / Universal aB,ABUA13/H8DB/FPDB/T2/SPDB:9:740/	,Waterford Trading Production,,,705.041,705.041
+8200 / Universal aB,"ABUA13/H8DB/FPDB/T2/SPDB:9:740/	",Waterford Trading Production,,,705.041,705.041
 8201 / Universal aB,ABUA13/H8CW/FPCW/T10/SPCW:3:740/,Waterford Trading Production,,,705.041,705.041
 8202-8204 / Universal aB,ABUA13/H8CW/FPCW/T2/SPCW:9:740/,Waterford Trading Production,,,705.041,705.041
 8205-8206 / Universal aB,ABUA13/H8RB/FPRB/T10/SPRB:3:740/,Waterford Trading Production,,,705.041,705.041
@@ -2482,14 +2482,14 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 8217 / Classic aB,AB12/H8CG/FPSY/T10/,Waterford Trading Production,,,705.041,705.041
 8218-8219 / Classic aB,AB12/H8CG/FPSY/T10/,Waterford Trading Production,,,705.041,705.041
 8220-8229 / Classic aB,AB12/H8CG/FPSY/T10/,Waterford Trading Production,,,705.041,705.041
-8230-8234 / Universal aB,ABUA13/H8CG/FPSY/T10/GT:12/SPSY:3:740/	,Waterford Trading Production,,,705.041,705.041
-8235 / Universal aB,ABUA13/H8CG/FPSY/T2/GT:12/SPSY:9:740/	,Waterford Trading Production,,,705.041,705.041
+8230-8234 / Universal aB,"ABUA13/H8CG/FPSY/T10/GT:12/SPSY:3:740/	",Waterford Trading Production,,,705.041,705.041
+8235 / Universal aB,"ABUA13/H8CG/FPSY/T2/GT:12/SPSY:9:740/	",Waterford Trading Production,,,705.041,705.041
 8236-8237 / Universal aB,ABUA13/H8CG/FPSY/T10/GT:12/SPSY:3:740/,Waterford Trading Production,,,705.041,705.041
-8238-8243 / Universal aB,ABUA13/H8CG/FPSY/T2/GT:12/SPSY:9:740/	,Waterford Trading Production,,,705.041,705.041
+8238-8243 / Universal aB,"ABUA13/H8CG/FPSY/T2/GT:12/SPSY:9:740/	",Waterford Trading Production,,,705.041,705.041
 8244 / Classic aB,AB12/H7CR/FPCG/TR10/,Waterford Trading Production,,,705.041,705.041
 8245 / Universal aB,ABUA13/H10CG/FPCG/T2/C3ASPCG:9:800/,Waterford Trading Production,,,705.041,705.041
 8246 / Universal 2 aB,AB2UA14/H7PB/FPCW/T10/F0/SPCR:3:680/SPCR:9:600/,Waterford Trading Production,,,705.041,705.041
-8247 / Universal 2 aB,AB2UA14/H6PB/FPCW/T10/F0/SPCR:3:580/SPCR:9:580/	,Waterford Trading Production,,,705.041,705.041
+8247 / Universal 2 aB,"AB2UA14/H6PB/FPCW/T10/F0/SPCR:3:580/SPCR:9:580/	",Waterford Trading Production,,,705.041,705.041
 8248 / Universal 2 aB,AB2UA14/H6PB/FPCW/T10/F0/WM/C3ASPCR:3:580/SPCR:9:580/,Waterford Trading Production,,,705.041,705.041
 8249 / Universal aB,ABUA13/H6PB/FPPB/T10/SPPB:3:600/,Waterford Trading Production,,,705.041,705.041
 8250 / Universal aB,ABUA13/H6PB/FPPB/T2/SPPB:9:600/,Waterford Trading Production,,,705.041,705.041
@@ -2498,7 +2498,7 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 8253 / Universal aB,ABUA13/H8CG/FPCG/T10/SPCG:3:700/,Waterford Trading Production,,,705.041,705.041
 8254 / Universal aB,ABUA13/H8CG/FPCG/T2/SPCG:9:700/,Waterford Trading Production,,,705.041,705.041
 8255 / Universal aB,ABUA13/H8RB/FPLG/TB10/GT:12/SPLG:3:780/,Waterford Trading Production,,,705.041,705.041
-8256 / Universal aB,ABUA13/H8RB/FPCG/T10/SPCG:3:700/	,Waterford Trading Production,,,705.041,705.041
+8256 / Universal aB,"ABUA13/H8RB/FPCG/T10/SPCG:3:700/	",Waterford Trading Production,,,705.041,705.041
 8257 - 8258 / Classic aB,AB12/H7CG/FPSY/T10/,Waterford Trading Production,,,705.041,705.041
 8259-8260 / Universal 2 aB,AB2UA14/H8PB/FPGL/T10/SPCR:3:740/SPSY:9:780/,Waterford Trading Production,,,705.041,705.041
 8261 / Universal aB,ABUA13/H8AQ/FPSY/TY10/SPSY:3:700/,Waterford Trading Production,,,705.041,705.041
@@ -2506,53 +2506,53 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 8263 / Classic aB,AB12/H10CG/FPCG/T10/F0/C3A,Waterford Trading Production,,,705.041,705.041
 8264-8265 / Universal aB,ABUA13/H8DB/FPDB/T10/VA/SPDB:3:700/,Waterford Trading Production,,,705.041,705.041
 8266-8267 / Classic aB,AB12/H10DB/FPDB/T10/VA/,Waterford Trading Production,,,705.041,705.041
-8268 / Universal aB,ABUA13/H8CG/FPCG/T2/SPCG:9:740/	,Waterford Trading Production,,,705.041,705.041
-8269-8270 / Classic aB,AB12/H6CG/FPCG/T10/	,Waterford Trading Production,,,705.041,705.041
-8271 - 8273 / Classic aB,AB12/H8CG/FPCG/T10/	,Waterford Trading Production,,,705.041,705.041
-8274-8277 / Classic aB,AB12/H6CG/FPCG/T10/	,Waterford Trading Production,,,705.041,705.041
+8268 / Universal aB,"ABUA13/H8CG/FPCG/T2/SPCG:9:740/	",Waterford Trading Production,,,705.041,705.041
+8269-8270 / Classic aB,"AB12/H6CG/FPCG/T10/	",Waterford Trading Production,,,705.041,705.041
+8271 - 8273 / Classic aB,"AB12/H8CG/FPCG/T10/	",Waterford Trading Production,,,705.041,705.041
+8274-8277 / Classic aB,"AB12/H6CG/FPCG/T10/	",Waterford Trading Production,,,705.041,705.041
 8279 - 8281 / Classic aB,AB12/H8RB/FPRB/TB10/,Waterford Trading Production,,,705.041,705.041
-8282 / Universal aB,ABUA13/H8RB/FPRB/TB10/SPRB:3:700/	,Waterford Trading Production,,,705.041,705.041
+8282 / Universal aB,"ABUA13/H8RB/FPRB/TB10/SPRB:3:700/	",Waterford Trading Production,,,705.041,705.041
 8283 / Universal aB,ABUA13/H7CW/FPCW/T10/C15ASPCW:3:700/,Waterford Trading Production,,,705.041,705.041
 8284 - 8285 / Classic aB,AB12/H8CG/FPCG/T10/VA/,Waterford Trading Production,,,705.041,705.041
-8286 / Universal aB,ABUA13/H8CG/FPCG/T10/SPCG:3:700/	,Waterford Trading Production,,,705.041,705.041
+8286 / Universal aB,"ABUA13/H8CG/FPCG/T10/SPCG:3:700/	",Waterford Trading Production,,,705.041,705.041
 8287-8289 / Classic aB ,AB12/H7CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
-8290-8291 / Universal aB,ABUA13/H8CG/FPTO/T10/F0/SPTO:3:700/	,Waterford Trading Production,,,705.041,705.041
+8290-8291 / Universal aB,"ABUA13/H8CG/FPTO/T10/F0/SPTO:3:700/	",Waterford Trading Production,,,705.041,705.041
 8293 / Universal aB,ABUA13/H8CG/FPCW/T2/C3ASPCW:9:700/,Waterford Trading Production,,,705.041,705.041
 8294 / Classic aB,AB12/H8RB/FPSY/T10/,Waterford Trading Production,,,705.041,705.041
-8295-8296 / Universal 2 aB,AB2UA14/H7DP/FPSY/TY10/SPSY:3:700/SPSY:9:600/	,Waterford Trading Production,,,705.041,705.041
-8297 / Universal 2 aB,AB2UA14HF/H8CG/FPSY/FT10/PSPSY:3:700/PSPRB:9:700/	,Waterford Trading Production,,,705.041,705.041
+8295-8296 / Universal 2 aB,"AB2UA14/H7DP/FPSY/TY10/SPSY:3:700/SPSY:9:600/	",Waterford Trading Production,,,705.041,705.041
+8297 / Universal 2 aB,"AB2UA14HF/H8CG/FPSY/FT10/PSPSY:3:700/PSPRB:9:700/	",Waterford Trading Production,,,705.041,705.041
 8298-8299 / Classic aB,AB12/H8DB/FPSY/TY10/C3A,Waterford Trading Production,,,705.041,705.041
 8300 - 8301 / Classic aB,AB12/H8DB/FPSY/TY10/C3B,Waterford Trading Production,,,705.041,705.041
 8302 / Classic aB,AB12/H7CG/FPCG/T10/VA/,Waterford Trading Production,,,705.041,705.041
 8303 - 8304 / Classic aB,AB12/H8RB/FPRB/T10/,Waterford Trading Production,,,705.041,705.041
 8305 / Universal aB,ABUA13/H8RB/FPRB/T2/SPRB:9:700/,Waterford Trading Production,,,705.041,705.041
 8306 / Universal 2 aB,AB2UA14/H7CG/FPCG/T10/SPCG:3:700/SPCG:9:600/,Waterford Trading Production,,,705.041,705.041
-8307 / Universal aB,ABUA13/H8RB/FPRB/T2/GT:12/SPRB:9:700/	,Waterford Trading Production,,,705.041,705.041
+8307 / Universal aB,"ABUA13/H8RB/FPRB/T2/GT:12/SPRB:9:700/	",Waterford Trading Production,,,705.041,705.041
 8308 / Universal aB,ABUA13/H8LG/FPLG/T2/GT:12/SPLG:9:700/,Waterford Trading Production,,,705.041,705.041
-8309 / Universal aB,ABUA13/H8LG/FPLG/T2/SPLG:9:700/	,Waterford Trading Production,,,705.041,705.041
-8310 / Classic aB,AB12/H8RB/FPRB/T10/	,Waterford Trading Production,,,705.041,705.041
+8309 / Universal aB,"ABUA13/H8LG/FPLG/T2/SPLG:9:700/	",Waterford Trading Production,,,705.041,705.041
+8310 / Classic aB,"AB12/H8RB/FPRB/T10/	",Waterford Trading Production,,,705.041,705.041
 8311 / Classic aB,AB12/H6CR/FPLG/TR10/IN/,Waterford Trading Production,,,705.041,705.041
 8312 / Classic aB,AB12/H7RB/FPSY/TB10/IN/,Waterford Trading Production,,,705.041,705.041
 8313 / Classic aB,AB12/H6SY/FPRB/TY10/IN/,Waterford Trading Production,,,705.041,705.041
-8314 / Classic aB ,AB12/H6LG/FPCR/TG10/IN/	,Waterford Trading Production,,,705.041,705.041
+8314 / Classic aB ,"AB12/H6LG/FPCR/TG10/IN/	",Waterford Trading Production,,,705.041,705.041
 8315 / Classic aB,AB12/H7CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 8320 / Universal aB,ABUA13/H10GL/FPAQ/TG10/DG:12/SPAQ:3:800/,Waterford Trading Production,,,705.041,705.041
 8321 / Universal aB,ABUA13HF/H10SY/FPRB/TY10/DG:3/SPRB:3:800/,Waterford Trading Production,,,705.041,705.041
 8322-8325 / Classic aB,AB12/H8DB/FPDB/TB10/VA/,Waterford Trading Production,,,705.041,705.041
 8326 / Classic aB,AB12/H7CR/FPCR/TR10/,Waterford Trading Production,,,705.041,705.041
-8327 / Classic aB,AB12/H8CG/FPCG/T10/VA/	,Waterford Trading Production,,,705.041,705.041
+8327 / Classic aB,"AB12/H8CG/FPCG/T10/VA/	",Waterford Trading Production,,,705.041,705.041
 8328; 8316-8319 / Classic aB,AB12/H7CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 8329 / Wall Mount Refill aB,ABWR21/CW/P/FC/,Waterford Trading Production,,,705.041,705.041
 8330 / Classic aB,AB12/H8LG/FPLG/TG10/DG:3/F0/VA,Waterford Trading Production,,,705.041,705.041
-8331 / Universal aB,ABUA13/H8CG/FPCG/T10/F0/SPCG:3:740/	,Waterford Trading Production,,,705.041,705.041
-8332 / Universal aB,ABUA13/H8CG/FPCG/T2/F0/SPCG:9:740/	,Waterford Trading Production,,,705.041,705.041
-8333 / Universal aB,ABUA13/H8CG/FPCG/T2/VA/SPCG:9:700/	,Waterford Trading Production,,,705.041,705.041
+8331 / Universal aB,"ABUA13/H8CG/FPCG/T10/F0/SPCG:3:740/	",Waterford Trading Production,,,705.041,705.041
+8332 / Universal aB,"ABUA13/H8CG/FPCG/T2/F0/SPCG:9:740/	",Waterford Trading Production,,,705.041,705.041
+8333 / Universal aB,"ABUA13/H8CG/FPCG/T2/VA/SPCG:9:700/	",Waterford Trading Production,,,705.041,705.041
 8334-8335 / Twin Refill aB,ABS14/CP/H13CG/,Waterford Trading Production,,,705.041,705.041
-8336-8337 / Classic aB,AB12/H8RB/FPRB/TB10/	,Waterford Trading Production,,,705.041,705.041
+8336-8337 / Classic aB,"AB12/H8RB/FPRB/TB10/	",Waterford Trading Production,,,705.041,705.041
 8338 - 8339 / Classic aB,AB12/H8DB/FPDB/T10/,Waterford Trading Production,,,705.041,705.041
 8338 / Classic aB,AB12/H8LG/FPRB/TG10/,Waterford Trading Production,,,705.041,705.041
-8340-8341 / Universal aB,ABUA13/H8DB/FPDB/T2/SPDB:9:700/	,Waterford Trading Production,,,705.041,705.041
-8342 / Classic aB,AB12/H8RB/FPRB/T10/	,Waterford Trading Production,,,705.041,705.041
+8340-8341 / Universal aB,"ABUA13/H8DB/FPDB/T2/SPDB:9:700/	",Waterford Trading Production,,,705.041,705.041
+8342 / Classic aB,"AB12/H8RB/FPRB/T10/	",Waterford Trading Production,,,705.041,705.041
 8364 / Classic aB,AB12/H7PB/FPPB/TB10/,Waterford Trading Production,,,705.041,705.041
 8365-8372 / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 8373 / Twin Refill aB,ABS14/CP/H15DB/,Waterford Trading Production,,,705.041,705.041
@@ -2560,22 +2560,22 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 8375 / Classic aB,AB12/H7PB/FPLG/TG10/C3A,Waterford Trading Production,,,705.041,705.041
 8376 / Classic aB,AB12/H7DB/FPPB/TB10/C3B,Waterford Trading Production,,,705.041,705.041
 8377 / Universal 2 aB,AB2UA14/H7SY/FPRB/TY10/SPRB:3:700/SPRB:9:600/,Waterford Trading Production,,,705.041,705.041
-8379 / Wall mounted aB,ABWR21/CW/P/	,Waterford Trading Production,,,705.041,705.041
-8380 / Universal aB,ABUA13/H10CG/FPCG/T10/SPCG:3:800/	,Waterford Trading Production,,,705.041,705.041
-8381 / Universal aB,ABUA13/H10CG/FPCG/T2/SPCG:9:800/	,Waterford Trading Production,,,705.041,705.041
+8379 / Wall mounted aB,"ABWR21/CW/P/	",Waterford Trading Production,,,705.041,705.041
+8380 / Universal aB,"ABUA13/H10CG/FPCG/T10/SPCG:3:800/	",Waterford Trading Production,,,705.041,705.041
+8381 / Universal aB,"ABUA13/H10CG/FPCG/T2/SPCG:9:800/	",Waterford Trading Production,,,705.041,705.041
 8382 / Universal aB,ABUA13/H8CG/FPCG/T10/SPCG:3:700/,Waterford Trading Production,,,705.041,705.041
-8383-8384 / Universal aB,ABUA13/H7DB/FPTO/T10/SPTO:3:700/	,Waterford Trading Production,,,705.041,705.041
-8385 - 8386 / Wall mounted aB,ABWR21/DB/P/	,Waterford Trading Production,,,705.041,705.041
-8387 / Classic aB,AB12/H6PB/FPPB/TB10/	,Waterford Trading Production,,,705.041,705.041
+8383-8384 / Universal aB,"ABUA13/H7DB/FPTO/T10/SPTO:3:700/	",Waterford Trading Production,,,705.041,705.041
+8385 - 8386 / Wall mounted aB,"ABWR21/DB/P/	",Waterford Trading Production,,,705.041,705.041
+8387 / Classic aB,"AB12/H6PB/FPPB/TB10/	",Waterford Trading Production,,,705.041,705.041
 8388 / Classic aB,AB12/H8LG/FPRB/TG10/,Waterford Trading Production,,,705.041,705.041
 8389 / Classic aB,AB12/H8CR/FPRB/TR10/,Waterford Trading Production,,,705.041,705.041
 8390 / Classic aB,AB12/H8RB/FPSY/TB10/F0/C3A,Waterford Trading Production,,,705.041,705.041
 8391-8393 / Universal 2 aB,AB2UA14/H8CG/FPLG/T10/SPDP:3:800/SPPB:9:700/,Waterford Trading Production,,,705.041,705.041
 8394 / Universal 2 aB,AB2UA14/H7GL/FPSY/TG10/C7ASPSY:3:700/SPSY:9:600/,Waterford Trading Production,,,705.041,705.041
-8395 / Classic aB,AB12/H8LG/FPLG/TG10/	,Waterford Trading Production,,,705.041,705.041
+8395 / Classic aB,"AB12/H8LG/FPLG/TG10/	",Waterford Trading Production,,,705.041,705.041
 8396-8397 / Universal aB,ABUA13/H8RB/FPRB/TB10/SPRB:3:700/,Waterford Trading Production,,,705.041,705.041
 8398 / Classic aB,AB12/H8CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
-8399 / Classic aB,AB12/H6LG/FPLG/TG10/	,Waterford Trading Production,,,705.041,705.041
+8399 / Classic aB,"AB12/H6LG/FPLG/TG10/	",Waterford Trading Production,,,705.041,705.041
 8400 / Classic aB,AB12/H10CG/FPCG/T2/DG:9/,Waterford Trading Production,,,705.041,705.041
 8402 / Classic aB,AB12/H7CG/FPCG/T10/,Waterford Trading Production,,,705.041,705.041
 AAB12 MSA for 2694,Standard aquaBUBBLER Components (no body  no installation guide),Waterford Trading Production,,,313.1571,313.1571
@@ -2615,9 +2615,9 @@ AB WaterMark Label- NZSN,aquaBUBBLER label with WaterMark Cert New Zealand AB||0
 AB WaterMark Label- WAT01 NZ,aquaBUBBLER label with WaterMark Cert New Zealand AB||02,Acme Signs & Nameplates,AB Label with WateMark WAT01 NZ,,4,3.74
 AB WaterMark Label- WAT02 AUS,aquaBUBBLER label with WaterMark Cert AB||02,Acme Signs & Nameplates,AB Label with Watermark WAT02 AUS,,4,4
 AB WaterMark Label- WAT03 NZ + SN,aquaBUBBLER label with WaterMark Cert New Zealand and Serial Number AB||02,Acme Signs & Nameplates,Acme- AB WaterMark Label- WAT03 NZ + SN,,8,8
-AB/C15,aquaBUBBLER Chiller 15L,Frigmac Pty. Ltd,FRS,Frigmac stainless steel cabinet  refrigerated water coolers,1,798.00,1,713.00
+AB/C15,aquaBUBBLER Chiller 15L,Frigmac Pty. Ltd,FRS,Frigmac stainless steel cabinet  refrigerated water coolers,"1,798.00","1,713.00"
 AB/C3,aquaBUBBLER Chiller 3L,Frigmac Pty. Ltd,TLS16,Frigmac under bench refrigerated water cooler,776.6,706
-AB/C7,aquaBUBBLER Chiller 7.5L,Frigmac Pty. Ltd,FRCS S/S,Frigmac stainless steel cabinet refrigerated water coolers S,1,798.00,1,713.00
+AB/C7,aquaBUBBLER Chiller 7.5L,Frigmac Pty. Ltd,FRCS S/S,Frigmac stainless steel cabinet refrigerated water coolers S,"1,798.00","1,713.00"
 AB12,Classic Outdoor aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
 AB12 Std aquaBUBBLER Test Run,Std aquaBUBBLER Test Run,Waterford Trading Production,,,705.041,705.041
 AB12/7,Universal aquaBUBBLER,Waterford Trading Production,,,705.041,705.041
@@ -4572,9 +4572,9 @@ ABS14/15/0/CG/2542,Refill Station Charcoal Grey  1500mm,Waterford Trading Produc
 ABS14/15/0/CG/2696,Water Refill Station,Waterford Trading Production,,,705.041,705.041
 ABS14/15/0/CG/2840:G,Water Refill Station,Waterford Trading Production,,,705.041,705.041
 ABS14/15/0/CG/2841,Water Refill Station,Waterford Trading Production,,,705.041,705.041
-ABS14/15/0/CG/3203,Water Refill Station,R & V Aqualine Industries,,,2,175.00,0
+ABS14/15/0/CG/3203,Water Refill Station,R & V Aqualine Industries,,,"2,175.00",0
 ABS14/15/0/CG/3203,Water Refill Station,Waterford Trading Production,,,705.041,705.041
-ABS14/15/0/CG/3204,Water Refill Station,R & V Aqualine Industries,,,2,175.00,0
+ABS14/15/0/CG/3204,Water Refill Station,R & V Aqualine Industries,,,"2,175.00",0
 ABS14/15/0/CG/3204,Water Refill Station,Waterford Trading Production,,,705.041,705.041
 ABS14/15/0/CG/3208,Water Refill Station,Waterford Trading Production,,,705.041,705.041
 ABS14/15/0/CG/3362,Water Refill Station,Waterford Trading Production,,,705.041,705.041
@@ -5741,7 +5741,7 @@ Aluminium Serial Label Holder,Aluminium Serial Label Holder,AG Holding,AQA1020,,
 aqua- SF09R,Side Service Tap AB||12,aquabubbler,aqua- SF09R,,50,50
 aqua- SF09R,Side Service Tap AB||12,Bredo Mators Pty. Ltd.,,,30.5,0
 aqua- TF09R,Top Service Tap ,aquabubbler,aqua- TF09R,,50,50
-aquacooler - UT1 3Lt tank,UT1 3Lt tank chilling capacity 25Lt/Hour,aquacooler PTY Limited,,,1,049.00,0
+aquacooler - UT1 3Lt tank,UT1 3Lt tank chilling capacity 25Lt/Hour,aquacooler PTY Limited,,,"1,049.00",0
 aquacooler - WRS45 2 litre chiller,2 litre holding tank supplies 26litres of water an hour. 500W x 200D x 240H ,aquacooler PTY Limited,,,901,0
 Art Work ,1.9mm Ployrop  Panel Size  - 1150mmx445mm  Visible print area - 1100mmx422mm  Finish - Gloss Anti Graffiti Laminate Single Sided AB||36,R & V Aqualine Industries,,,125,0
 Art Work ,1.9mm Ployrop  Panel Size  - 1150mmx445mm  Visible print area - 1100mmx422mm  Finish - Gloss Anti Graffiti Laminate Single Sided AB||36,Southern Impact P/L trading as Peak Digital,PDAW,,125,21.875
@@ -6218,13 +6218,13 @@ PVC RING,PVC bracket ring,DEPS Pty. Ltd.,DEPS PVC bracket ring,,0,5
 PVDC503,PLV Dual Check 350 kpa for micro Chiller and or Filter AB||42,Reliance Worldwide Corporation Pty. Ltd.,PVDC503,,26.75,0.01
 PVDC504,PLV Dual Check 500kpa Pressure Limiting Valve ATS5200.105 WM-022458 AB||42,Reliance Worldwide Corporation Pty. Ltd.,PVDC504,,26.75,26
 R&D sample,-,Beta Metal Spinning Co. Pty. Ltd.,V9A,,30,0
-R&D sample,-,Bredo Mators Pty. Ltd.,,,1,576.80,0
+R&D sample,-,Bredo Mators Pty. Ltd.,,,"1,576.80",0
 R&D sample,-,Smart Water Corporation Pty Ltd,,,103.98,0
 R&D sample,-,SP Valves,,,11.06,0
 R&V - Freight,Freight,aquabubbler,,,27.27,0
 R&V - Freight,Freight,R & V Aqualine Industries,R&V - Freight,,27.27,0
 R&V - Tool,Production of new Tool / mould,aquabubbler,,,0.01,0
-R&V - Tool,Production of new Tool / mould,R & V Aqualine Industries,Production Mould Cost,,0,7,500.00
+R&V - Tool,Production of new Tool / mould,R & V Aqualine Industries,Production Mould Cost,,0,"7,500.00"
 R&V-B&P-MC-700-B Charcoal Grey & P Sunset Yellow,Multicolour 700 Body Stone (Charcoal Grey) & Pod Yellow 18 (Sunset Yellow),R & V Aqualine Industries,AB12-700mm body Charcoal Grey & pod Sunset Yellow,,122.73,0
 R&V-B1-Side Pod-Denim Torres Blue,Side Pod Only,Bottles of Australia,,,0,0
 R&V-BO-Custom-Body-700 Red 50,-,R & V Aqualine Industries,-,,112.35,112.35
@@ -6630,8 +6630,8 @@ R43/N/4ABS14/FX,Flat Bar Aluminium Anodised Matt Clear 15um 20mm x 3mm x 4 metre
 R44/W/6AC3/FL,Shut Off Valve 1/4  - 1/4 ,John Guest Pacific Ltd - RWC,PPSV040808W,,5.08,5.08
 R44/W/6AC3/FL,Shut Off Valve 1/4  - 1/4 ,Reliance Worldwide Corporation Pty. Ltd.,PPSV040808W,,5.65,5.08
 R45/W/6AC3/FL,Tap Adaptor  1/4  x 1/2 BSP,Reliance Worldwide Corporation Pty. Ltd.,CI320814S,,2.17,2.17
-R46/ PE-15115-0100M-B,Pipe 15mm LLDPE Tube ‚ÄúBlue 	AB||26,John Guest Pacific Ltd - RWC,JG-PE-15115-0100M-B,15mm LLDPE Tube “Blue ,152.3,152.3
-R46/ PE-15115-0100M-B,Pipe 15mm LLDPE Tube ‚ÄúBlue 	AB||26,Reliance Worldwide Corporation Pty. Ltd.,PE-15115-0100M-B,15mm LLDPE Tube ‚ÄúBlue ,152.3,152.3
+R46/ PE-15115-0100M-B,"Pipe 15mm LLDPE Tube ‚ÄúBlue 	AB||26",John Guest Pacific Ltd - RWC,JG-PE-15115-0100M-B,15mm LLDPE Tube “Blue ,152.3,152.3
+R46/ PE-15115-0100M-B,"Pipe 15mm LLDPE Tube ‚ÄúBlue 	AB||26",Reliance Worldwide Corporation Pty. Ltd.,PE-15115-0100M-B,15mm LLDPE Tube ‚ÄúBlue ,152.3,152.3
 R46/W/6AC3/FL,Pipe 1/4  LLDPE Tubing - White 500ft,John Guest Pacific Ltd - RWC,PE-08-BI-500F-W,,52.42,52.42
 R46/W/6AC3/FL,Pipe 1/4  LLDPE Tubing - White 500ft,Reliance Worldwide Corporation Pty. Ltd.,PE-08-BI-500F-W,,52.42,52.42
 R47/W/6AC3/FL,PLV Plastic 1/4  D 350 kpa,BWT Australia,VAZ350-14,PLV Plastic 1/4  D 350 kpa,19,12
@@ -6803,7 +6803,7 @@ Setup Cost,Plate and set up costs AB||02,Acme Signs & Nameplates,Acme - Setup Co
 Setup Cost,Plate and set up costs AB||02,aquabubbler,,,,0
 SF09 (09/002SS),Bottle Filler Body Bubbler  Stainless Steel 304  Part No. 09/002SS AB||12,Bredo Mators Pty. Ltd.,SF09 (09/002SS),,120.9,120.9
 SF09 09/002,Bottle Filler Body  Brass C352  Part No. 09/002 AB||12,Bredo Mators Pty. Ltd.,Bredo Mators- SF09 09/002,,30.5,30.5
-Side Pod Repair Service,Reparation of the Side Pod Mould,Roto Industries Pty Ltd,Side Pod Repair Service,,1,500.00,1,500.00
+Side Pod Repair Service,Reparation of the Side Pod Mould,Roto Industries Pty Ltd,Side Pod Repair Service,,"1,500.00","1,500.00"
 Side Tap Service,Service Side Tap Exchange (at condition we retrieve the previous tap),Waterford Trading Production,,,70.4534,65.856
 SPMOTMOF2,Side Pod Charcoal Grey,Waterford Trading Production,,,705.041,705.041
 SRO,Service or repair.,aquabubbler,,,,0
@@ -6892,7 +6892,7 @@ Ullrich - 250kg Aluminum 2,Cut to 1117mm + Drilled 4 holes ,Ullrich Aluminium Pt
 Ullrich - 300kg Aluminum 1,300kgs of Aluminum,aquabubbler,,,,0
 Ullrich - 300kg Aluminum 1,300kgs of Aluminum,Ullrich Aluminium Pty Ltd,Ullirch - 300kg Aluminum 1,,0,0
 Ullrich - Q24924 Die,Die for Aluminum Extrusion,aquabubbler,,,,0
-Ullrich - Q24924 Die,Die for Aluminum Extrusion,Ullrich Aluminium Pty Ltd,Q24924,,0,2,500.00
+Ullrich - Q24924 Die,Die for Aluminum Extrusion,Ullrich Aluminium Pty Ltd,Q24924,,0,"2,500.00"
 Universal 2 aquaBUBBLER,AB2UA14/H8RB/FPTO/T:2/SPSY:3:780/SPSY:9:650/5894-95,Waterford Trading Production,,,705.041,705.041
 Universal 2 aquaBUBBLER 5643,AB2UA14/H7RB/FPSY/T:10/SPSY:9:680/SPSY:3:600/5643,Waterford Trading Production,,,705.041,705.041
 Universal 2 aquaBUBBLER 5644,AB2UA14/H7RB/FPSY/T:10/SPSY:9:680/SPSY:3:600/5644,Waterford Trading Production,,,705.041,705.041
