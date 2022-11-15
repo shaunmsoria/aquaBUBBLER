@@ -1,9 +1,16 @@
 #!/bin/bash
 
-rm -f tmp.json tmp2.json
+rm -f inv1.csv inv2.csv tmp.json tmp2.json
 
-Inventory=$1 
+file=$1
+
+sed 's/\"//g' $file >> inv1.csv
+sed 's///g' inv.csv >> inv2.csv
+
+Inventory=inv.csv 
 JQ_reference=$2
+
+
 
 count=0
 printf "{" >> tmp.json
@@ -19,7 +26,7 @@ do
 	if [[ ! -z "$description" ]]; then
 		skuStatus="Active"
 	else
-		skuStatus="Deprecated"
+		skuStatus="Inactive"
 	fi
 	printf "Status:$skuStatus\n"
 
