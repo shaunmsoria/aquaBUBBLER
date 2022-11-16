@@ -2,8 +2,6 @@ SKU,Product,Supplier,Supplier SKU,Supplier Product Name,Latest Price,Fixed Price
 AB/C15,aquaBUBBLER Chiller 15L,Frigmac Pty. Ltd,FRS,Frigmac stainless steel cabinet refrigerated water coolers,1798.00,1713.00
 AB/C3,aquaBUBBLER Chiller 3L,Frigmac Pty. Ltd,TLS16,Frigmac under bench refrigerated water cooler,776.60,706.00
 AB/C7,aquaBUBBLER Chiller 7.5L,Frigmac Pty. Ltd,FRCS S/S,Frigmac stainless steel cabinet refrigerated water coolers S,1798.00,1713.00
-AB12,Classic Outdoor aquaBUBBLER,Waterford Trading Production,,,705.04,705.04
-AB12 Std aquaBUBBLER Test Run,Std aquaBUBBLER Test Run,Waterford Trading Production,,,705.04,705.04
 ABB600BE,ROI-B4-BO-600 Beige,Roto Industries Pty Ltd,ABB600BE,,75.25,75.25
 ABB600DB,ROI-A2-BO-600 Dark Blue,Roto Industries Pty Ltd,ABB600DB,,71.60,75.25
 ABB600DG,ROI-A9-BO-600 Dark Green,Roto Industries Pty Ltd,ABB600DG,,75.25,75.25
@@ -867,7 +865,7 @@ R214/N/FX,M6x40mm Countersunk Post Torx Screw,Cost Less Bolts,FHCSM640PTS,NS 6x4
 R215/N/FX,M6x16mm Mushroom Head Phillips Button Screw,Cost Less Bolts,SMTC40M6016H,M6 x 16mm Mushroom Head Phillips - Button,0.66,0.60
 R216/N/FX,SS Rivet 4.8dia x 3.2grip dome head,Cost Less Bolts,RSTST62,CL STST6-2 All Stainless Steel Rivet [500] RD-STST62,0.34,0.34
 R217/W/AV,OR019x3N70AS4020 O-Ring,BSC Motion Technology,10203888.00,O-Ring MET NBR D70 AS4020 19x3mm,0.32,0.36
-R218/W/7AFC/FL,Filter Cartridge Mini Carbon Block & Sediment Filter 10 Snaplock [Compact],BWT Australia,QC2533,10 snaplock cartridge 5 micron fibron activated carbon,29.16,27.00
+R218/W/7AF0/FL,Filter Cartridge Mini Carbon Block & Sediment Filter 10 Snaplock [Compact],BWT Australia,QC2533,10 snaplock cartridge 5 micron fibron activated carbon,29.16,27.00
 R219/W/7AF0/FL,Filter Mini Snaplock Manual Head,BWT Australia,QCHMJZ22,1/4 Quick Connect in out Manual Head,16.20,15.00
 R22/N/1AB12/FL,Bend Drain-Waste-Vent Plain F&F Polyvinyl Chloride 40mm x 88 Deg WMKA1305,Tradelink Pty Ltd,10091.00,BEND DWV PVC PLN F&F 40MM X 85D,1.53,1.00
 R220/N/FX,Filter Mini Snaplock Mounting Bracket,BWT Australia,BT21P1,Snaplock Quick Connect Mounting Bracket,2.05,1.90

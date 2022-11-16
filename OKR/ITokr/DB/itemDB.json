@@ -477,7 +477,7 @@
 	},
 	"Key34":
 	{
-		"SKU":"ABC15",
+		"SKU":"AB/C15",
 		"Description":"aquaBUBBLER Chiller 15L",
 		"Suppliers":["Frigmac"],
 		"MBR":"1",
@@ -487,11 +487,11 @@
 		"Function":"Chiller",
 		"MBP":"0",
 		"PCTM":"0",
-		"Legacy":"ABC15"
+		"Legacy":"AB/C15"
 	},
 	"Key35":
 	{
-		"SKU":"ABC3",
+		"SKU":"AB/C3",
 		"Description":"aquaBUBBLER Chiller 3L",
 		"Suppliers":["Frigmac"],
 		"MBR":"3",
@@ -501,11 +501,11 @@
 		"Function":"Chiller",
 		"MBP":"0",
 		"PCTM":"0",
-		"Legacy":"ABC3"
+		"Legacy":"AB/C3"
 	},
 	"Key36":
 	{
-		"SKU":"ABC7",
+		"SKU":"AB/C7",
 		"Description":"aquaBUBBLER Chiller 7.5L",
 		"Suppliers":["Frigmac"],
 		"MBR":"1",
@@ -515,7 +515,7 @@
 		"Function":"Chiller",
 		"MBP":"0",
 		"PCTM":"0",
-		"Legacy":"ABC7"
+		"Legacy":"AB/C7"
 	},
 	"Key37":
 	{

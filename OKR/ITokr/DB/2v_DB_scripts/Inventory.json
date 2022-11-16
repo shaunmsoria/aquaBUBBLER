@@ -6594,14 +6594,14 @@
 	},
 	"Key347":
 	{
-		"SKU":"",
-		"Description":"",
-		"Status":"Inactive",
+		"SKU":"M129",
+		"Description":"Standard Panel 1.9mm Ployrop Panel Size - 1150mmx445mm Visible print area - 1100mmx422mm Finish - Gloss Anti Graffiti Laminate Single Sided",
+		"Status":"Active",
 		"Supplier":"Southern Impact P/L trading as Peak Digital",
 		"SupplierSKU":"",
 		"SupplierProductName":"",
 		"ItemLatestPrice":125.00,
-		"ItemFixedPrice":21.88,
+		"ItemFixedPrice":125.00,
 		"MBR":0,
 		"RQ":0,
 		"LeadTime":0,
@@ -6609,7 +6609,7 @@
 		"Function":"",
 		"MBP":0,
 		"PCTM":0,
-		"Legacy":""
+		"Legacy":"M129/AP4/N/4ABS14T/ID"
 	},
 	"Key348":
 	{
@@ -6784,9 +6784,9 @@
 	},
 	"Key357":
 	{
-		"SKU":"",
-		"Description":"",
-		"Status":"Inactive",
+		"SKU":"MN-F0",
+		"Description":"Maintenance Filter",
+		"Status":"Active",
 		"Supplier":"aquabubbler",
 		"SupplierSKU":"",
 		"SupplierProductName":"",
@@ -6794,12 +6794,12 @@
 		"ItemFixedPrice":0.00,
 		"MBR":0,
 		"RQ":0,
-		"LeadTime":0,
+		"LeadTime":10,
 		"Certifications":[],
 		"Function":"",
 		"MBP":0,
 		"PCTM":0,
-		"Legacy":""
+		"Legacy":"MN-F0"
 	},
 	"Key358":
 	{
@@ -6822,9 +6822,9 @@
 	},
 	"Key359":
 	{
-		"SKU":"",
-		"Description":"",
-		"Status":"Inactive",
+		"SKU":"MN-F0-10",
+		"Description":"Filter Replacement Kit",
+		"Status":"Active",
 		"Supplier":"aquabubbler",
 		"SupplierSKU":"",
 		"SupplierProductName":"",
@@ -6837,7 +6837,7 @@
 		"Function":"",
 		"MBP":0,
 		"PCTM":0,
-		"Legacy":""
+		"Legacy":"MN-F0-10"
 	},
 	"Key360":
 	{
@@ -23520,4 +23520,4 @@
 		"MBP":0,
 		"PCTM":0,
 		"Legacy":""
-	},
+	}}
