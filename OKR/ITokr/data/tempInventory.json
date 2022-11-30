@@ -1,0 +1,38 @@
+{
+  "Key123": {
+    "bomSKU": "ABFPSR",
+    "Status": "Active",
+    "prioritySKU": 1,
+    "Supplier": "Roto Industries Pty Ltd",
+    "SupplierSKU": "ABFPSR",
+    "SupplierProductName": "",
+    "ItemLatestPrice": 29.09,
+    "ItemFixedPrice": 26.28,
+    "RQ": 8,
+    "LeadTime": 10
+  },
+  "key124": {
+    "SKU": "R67",
+    "Status": "Active",
+    "prioritySKU": 1,
+    "Supplier": "BERKELEY ENGINEERING GROUP PTY LTD",
+    "SupplierSKU": "BE-AQB007S",
+    "SupplierProductName": "09/008 Nozzle SS304",
+    "ItemLatestPrice": 2.78,
+    "ItemFixedPrice": 2.35,
+    "RQ": 400,
+    "LeadTime": 10
+  },
+  "key125": {
+    "SKU": "R67",
+    "Status": "Active",
+    "prioritySKU": 2,
+    "Supplier": "Bredo Mators Pty. Ltd.",
+    "SupplierSKU": "BCTF (09/005A)",
+    "SupplierProductName": "",
+    "ItemLatestPrice": 3.8,
+    "ItemFixedPrice": 3.8,
+    "RQ": 200,
+    "LeadTime": 25
+  }
+}

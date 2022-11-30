@@ -1,0 +1,22 @@
+{
+  "BOMSKU45": {
+    "bomSKU": "ABSPSR",
+    "Description": "ROI-A3-FP Stock Red",
+    "MBR": 4,
+    "Certiffications": [],
+    "Function": "Protection",
+    "MBP": 0,
+    "PCTM": 0,
+    "Legacy": "ABFPSR"
+  },
+  "BOMSKU56": {
+    "bomSKU": "R67",
+    "Description": "Raw - Exit Nozzle Stainless Steel (303/304) Part No. 09/008",
+    "MBR": 200,
+    "Certiffications": ["Watermark"],
+    "Function": "Flow",
+    "MBP": 0,
+    "PCTM": 0,
+    "Legacy": "R67/N/TRF67/FL"
+  }
+}
