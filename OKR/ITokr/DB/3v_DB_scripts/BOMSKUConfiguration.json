@@ -1,0 +1,2833 @@
+[
+	{
+		"bomSKU": "AB/C15",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Chiller",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "AB/C15"
+	},
+	{
+		"bomSKU": "AB/C3",
+		"MBR": 3,
+		"Certifications": [],
+		"Function": "Chiller",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "AB/C3"
+	},
+	{
+		"bomSKU": "AB/C7",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Chiller",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "AB/C7"
+	},
+	{
+		"bomSKU": "ABB700DB",
+		"MBR": 3,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB700DB"
+	},
+	{
+		"bomSKU": "ABB700DG",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB700DG"
+	},
+	{
+		"bomSKU": "ABB700LB",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB700LB"
+	},
+	{
+		"bomSKU": "ABB700LG",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB700LG"
+	},
+	{
+		"bomSKU": "ABB700MB",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB700MB"
+	},
+	{
+		"bomSKU": "ABB700MO",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB700MO"
+	},
+	{
+		"bomSKU": "ABB700PU",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB700PU"
+	},
+	{
+		"bomSKU": "ABB700SO",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB700SO"
+	},
+	{
+		"bomSKU": "ABB700SR",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB700SR"
+	},
+	{
+		"bomSKU": "ABB700SW",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB700SW"
+	},
+	{
+		"bomSKU": "ABB700SY",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB700SY"
+	},
+	{
+		"bomSKU": "ABB700TE",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB700TE"
+	},
+	{
+		"bomSKU": "ABB800DB",
+		"MBR": 3,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB800DB"
+	},
+	{
+		"bomSKU": "ABB800DG",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB800DG"
+	},
+	{
+		"bomSKU": "ABB800LB",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB800LB"
+	},
+	{
+		"bomSKU": "ABB800LG",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB800LG"
+	},
+	{
+		"bomSKU": "ABB800MB",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB800MB"
+	},
+	{
+		"bomSKU": "ABB800MO",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB800MO"
+	},
+	{
+		"bomSKU": "ABB800PU",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB800PU"
+	},
+	{
+		"bomSKU": "ABB800SO",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB800SO"
+	},
+	{
+		"bomSKU": "ABB800SR",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB800SR"
+	},
+	{
+		"bomSKU": "ABB800SW",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB800SW"
+	},
+	{
+		"bomSKU": "ABB800SY",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB800SY"
+	},
+	{
+		"bomSKU": "ABB800TE",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABB800TE"
+	},
+	{
+		"bomSKU": "ABBWRDB",
+		"MBR": 3,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABBWRDB"
+	},
+	{
+		"bomSKU": "ABBWRLB",
+		"MBR": 3,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABBWRLB"
+	},
+	{
+		"bomSKU": "ABBWRLG",
+		"MBR": 3,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABBWRLG"
+	},
+	{
+		"bomSKU": "ABBWRMB",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABBWRMB"
+	},
+	{
+		"bomSKU": "ABBWRMO",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABBWRMO"
+	},
+	{
+		"bomSKU": "ABBWRPU",
+		"MBR": 3,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABBWRPU"
+	},
+	{
+		"bomSKU": "ABBWRSR",
+		"MBR": 3,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABBWRSR"
+	},
+	{
+		"bomSKU": "ABBWRSW",
+		"MBR": 3,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABBWRSW"
+	},
+	{
+		"bomSKU": "ABBWRTE",
+		"MBR": 3,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABBWRTE"
+	},
+	{
+		"bomSKU": "ABBWRTO",
+		"MBR": 3,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABBWRTO"
+	},
+	{
+		"bomSKU": "ABEB250DB",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABEB250DB"
+	},
+	{
+		"bomSKU": "ABEB250DG",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABEB250DG"
+	},
+	{
+		"bomSKU": "ABEB250DP",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABEB250DP"
+	},
+	{
+		"bomSKU": "ABEB250LB",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABEB250LB"
+	},
+	{
+		"bomSKU": "ABEB250LG",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABEB250LG"
+	},
+	{
+		"bomSKU": "ABEB250MB",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABEB250MB"
+	},
+	{
+		"bomSKU": "ABEB250MO",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABEB250MO"
+	},
+	{
+		"bomSKU": "ABEB250SR",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABEB250SR"
+	},
+	{
+		"bomSKU": "ABEB250SW",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABEB250SW"
+	},
+	{
+		"bomSKU": "ABEB250SY",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABEB250SY"
+	},
+	{
+		"bomSKU": "ABEB250TE",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABEB250TE"
+	},
+	{
+		"bomSKU": "ABEB250TO",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABEB250TO"
+	},
+	{
+		"bomSKU": "ABFPDB",
+		"MBR": 6,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABFPDB"
+	},
+	{
+		"bomSKU": "ABFPDG",
+		"MBR": 4,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABFPDG"
+	},
+	{
+		"bomSKU": "ABFPLB",
+		"MBR": 4,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABFPLB"
+	},
+	{
+		"bomSKU": "ABFPLG",
+		"MBR": 4,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABFPLG"
+	},
+	{
+		"bomSKU": "ABFPMB",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABFPMB"
+	},
+	{
+		"bomSKU": "ABFPMO",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABFPMO"
+	},
+	{
+		"bomSKU": "ABFPPU",
+		"MBR": 4,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABFPPU"
+	},
+	{
+		"bomSKU": "ABFPSO",
+		"MBR": 4,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABFPSO"
+	},
+	{
+		"bomSKU": "ABFPSR",
+		"MBR": 4,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABFPSR"
+	},
+	{
+		"bomSKU": "ABFPSW",
+		"MBR": 4,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABFPSW"
+	},
+	{
+		"bomSKU": "ABFPSY",
+		"MBR": 4,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABFPSY"
+	},
+	{
+		"bomSKU": "ABFPTE",
+		"MBR": 4,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABFPTE"
+	},
+	{
+		"bomSKU": "ABSPDB",
+		"MBR": 3,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABSPDB"
+	},
+	{
+		"bomSKU": "ABSPDG",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABSPDG"
+	},
+	{
+		"bomSKU": "ABSPLB",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABSPLB"
+	},
+	{
+		"bomSKU": "ABSPLG",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABSPLG"
+	},
+	{
+		"bomSKU": "ABSPMB",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABSPMB"
+	},
+	{
+		"bomSKU": "ABSPMO",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABSPMO"
+	},
+	{
+		"bomSKU": "ABSPPU",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABSPPU"
+	},
+	{
+		"bomSKU": "ABSPSO",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABSPSO"
+	},
+	{
+		"bomSKU": "ABSPSR",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABSPSR"
+	},
+	{
+		"bomSKU": "ABSPSW",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABSPSW"
+	},
+	{
+		"bomSKU": "ABSPSY",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABSPSY"
+	},
+	{
+		"bomSKU": "ABSPTE",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABSPTE"
+	},
+	{
+		"bomSKU": "ABT1300DB",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1300DB"
+	},
+	{
+		"bomSKU": "ABT1300DG",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1300DG"
+	},
+	{
+		"bomSKU": "ABT1300LB",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1300LB"
+	},
+	{
+		"bomSKU": "ABT1300MO",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1300MO"
+	},
+	{
+		"bomSKU": "ABT1300SO",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1300SO"
+	},
+	{
+		"bomSKU": "ABT1300SR",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1300SR"
+	},
+	{
+		"bomSKU": "ABT1300SY",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1300SY"
+	},
+	{
+		"bomSKU": "ABT1300TE",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1300TE"
+	},
+	{
+		"bomSKU": "ABT1500DB",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1500DB"
+	},
+	{
+		"bomSKU": "ABT1500DG",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1500DG"
+	},
+	{
+		"bomSKU": "ABT1500LB",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1500LB"
+	},
+	{
+		"bomSKU": "ABT1500LG",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1500LG"
+	},
+	{
+		"bomSKU": "ABT1500MB",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1500MB"
+	},
+	{
+		"bomSKU": "ABT1500MO",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1500MO"
+	},
+	{
+		"bomSKU": "ABT1500PU",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1500PU"
+	},
+	{
+		"bomSKU": "ABT1500SR",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1500SR"
+	},
+	{
+		"bomSKU": "ABT1500SY",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1500SY"
+	},
+	{
+		"bomSKU": "ABT1500TE",
+		"MBR": 1,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "ABT1500TE"
+	},
+	{
+		"bomSKU": "M129",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "M129/AP4/N/4ABS14T/ID"
+	},
+	{
+		"bomSKU": "M130",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "M130/AP5/N/4ABS14T/ID"
+	},
+	{
+		"bomSKU": "M131",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "M131/AP6/N/4ABS14T/ID"
+	},
+	{
+		"bomSKU": "M132",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "M132/AP7/N/4ABS14T/ID"
+	},
+	{
+		"bomSKU": "M133",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "M133/AP8/N/4ABS14T/ID"
+	},
+	{
+		"bomSKU": "M134",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "M134/AP9/N/4ABS14T/ID"
+	},
+	{
+		"bomSKU": "M135",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "M135/AP10/N/4ABS14T/ID"
+	},
+	{
+		"bomSKU": "M136",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "M136/AP11/N/4ABS14T/ID"
+	},
+	{
+		"bomSKU": "M137",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "M137/BP/N/4ABS14T/ID"
+	},
+	{
+		"bomSKU": "M138",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "M138/CP/N/4ABS14T/ID"
+	},
+	{
+		"bomSKU": "MN-F0",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "MN-F0"
+	},
+	{
+		"bomSKU": "MN-F0-10",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "MN-F0-10"
+	},
+	{
+		"bomSKU": "MSA",
+		"MBR": ,
+		"Certifications": [],
+		"Function": ,
+		"MBP": ,
+		"PCTM": ,
+		"Legacy": 
+	},
+	{
+		"bomSKU": "Service",
+		"MBR": ,
+		"Certifications": [],
+		"Function": ,
+		"MBP": ,
+		"PCTM": ,
+		"Legacy": 
+	},
+	{
+		"bomSKU": "Kit",
+		"MBR": ,
+		"Certifications": [],
+		"Function": ,
+		"MBP": ,
+		"PCTM": ,
+		"Legacy": 
+	},
+	{
+		"bomSKU": "P2",
+		"MBR": ,
+		"Certifications": [],
+		"Function": ,
+		"MBP": ,
+		"PCTM": ,
+		"Legacy": 
+	},
+	{
+		"bomSKU": "PBA-12PPTF",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "PBA-12PPTF/R184"
+"PBA-12PPTF/R185"
+"PBA-12PPTF/R186"
+"PBA-12PPTF/R187"
+"PBA-12PPTF/R188"
+"PBA-12PPTF/TRF79"
+	},
+	{
+		"bomSKU": "PBA-13PPSF",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-13PPSF"
+	},
+	{
+		"bomSKU": "PBA-15PR20",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-15PR20"
+	},
+	{
+		"bomSKU": "PBA-17PDGT",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 10,
+		"PCTM": 10,
+		"Legacy": "PBA-17PDGT"
+	},
+	{
+		"bomSKU": "PBA-19PDGB",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-19PDGB"
+	},
+	{
+		"bomSKU": "PBA-21PFL",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-21PFL"
+	},
+	{
+		"bomSKU": "PBA-25PWPC",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-25PWPC"
+	},
+	{
+		"bomSKU": "PBA-27PWS1",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-27PWS1"
+	},
+	{
+		"bomSKU": "PBA-28PWS2",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-28PWS2"
+	},
+	{
+		"bomSKU": "PBA-29PCA",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-29PCA"
+	},
+	{
+		"bomSKU": "PBA-31PCWS1",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-31PCWS1"
+	},
+	{
+		"bomSKU": "PBA-32PMWIC3",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-32PMWIC3"
+	},
+	{
+		"bomSKU": "PBA-34AWM",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-34AWM"
+	},
+	{
+		"bomSKU": "PBA-36PIG",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-36PIG"
+	},
+	{
+		"bomSKU": "PBA-39AHF",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 10,
+		"PCTM": 10,
+		"Legacy": "PBA-39AHF"
+	},
+	{
+		"bomSKU": "PBA-40PSTD",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 10,
+		"PCTM": 10,
+		"Legacy": "PBA-40PSTD"
+	},
+	{
+		"bomSKU": "PBA-41PTTD",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 10,
+		"PCTM": 10,
+		"Legacy": "PBA-41PTTD"
+	},
+	{
+		"bomSKU": "PBA-42PPT",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 10,
+		"PCTM": 10,
+		"Legacy": "PBA-42PPT"
+	},
+	{
+		"bomSKU": "PBA-43PPS",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 10,
+		"PCTM": 10,
+		"Legacy": "PBA-43PPS"
+	},
+	{
+		"bomSKU": "PBA-44CRS",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 10,
+		"PCTM": 10,
+		"Legacy": "PBA-44CRS"
+	},
+	{
+		"bomSKU": "PBA-45ABWRPT",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-45ABWRPT"
+	},
+	{
+		"bomSKU": "PBA-46WRFC",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-46WRFC"
+	},
+	{
+		"bomSKU": "PBA-7AF0",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 20,
+		"PCTM": 10,
+		"Legacy": "PBA-7AF0"
+	},
+	{
+		"bomSKU": "PBA-8ACC7",
+		"MBR": 0,
+		"Certifications": [],
+		"Function": "",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "PBA-8ACC7/C15"
+	},
+	{
+		"bomSKU": "R02",
+		"MBR": 100,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R02/N/1AB12/PT"
+	},
+	{
+		"bomSKU": "R03",
+		"MBR": 100,
+		"Certifications": [],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R03/N/1AB12/PT"
+	},
+	{
+		"bomSKU": "R08",
+		"MBR": 150,
+		"Certifications": [],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R08/N/1AB12/FL"
+	},
+	{
+		"bomSKU": "R09",
+		"MBR": 50,
+		"Certifications": [],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R09/N/1AB12/FX"
+	},
+	{
+		"bomSKU": "R100",
+		"MBR": 50,
+		"Certifications": [],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R100/N/25PWPC/FL"
+	},
+	{
+		"bomSKU": "R101",
+		"MBR": 50,
+		"Certifications": [],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R101/N/25PWPC/FL"
+	},
+	{
+		"bomSKU": "R102",
+		"MBR": 50,
+		"Certifications": [],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R102/N/25PWPC/FL"
+	},
+	{
+		"bomSKU": "R103",
+		"MBR": 50,
+		"Certifications": [],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R103/N/26PWPRS/FL"
+	},
+	{
+		"bomSKU": "R105",
+		"MBR": 2,
+		"Certifications": [],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R105/N/26PWPRS/FL"
+	},
+	{
+		"bomSKU": "R106",
+		"MBR": 5,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R106/W/FL"
+	},
+	{
+		"bomSKU": "R107",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R107/W/FL"
+	},
+	{
+		"bomSKU": "R108",
+		"MBR": 150,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R108/W/FL"
+	},
+	{
+		"bomSKU": "R109",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R109/W/FL"
+	},
+	{
+		"bomSKU": "R110",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R110/W/29PCA/AV"
+	},
+	{
+		"bomSKU": "R111",
+		"MBR": 15,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R111/W/29PCA/FL"
+	},
+	{
+		"bomSKU": "R112",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R112/W/29PCA/FL"
+	},
+	{
+		"bomSKU": "R113",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R113/W/29PCA/FL"
+	},
+	{
+		"bomSKU": "R114",
+		"MBR": 15,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R114/W/29PCA/FL"
+	},
+	{
+		"bomSKU": "R117",
+		"MBR": 10,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R117/N/19PDGB/FX"
+	},
+	{
+		"bomSKU": "R119",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R119/N/19PDGB/FX"
+	},
+	{
+		"bomSKU": "R12",
+		"MBR": 500,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R12/N/1AB12/FL"
+	},
+	{
+		"bomSKU": "R120",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R120/W/34AWM/FL"
+	},
+	{
+		"bomSKU": "R121",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R121/N/34AWM/FX"
+	},
+	{
+		"bomSKU": "R122",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R122/N/34AWM/FX"
+	},
+	{
+		"bomSKU": "R123",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R123/W/34AWM/ID"
+	},
+	{
+		"bomSKU": "R124",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R124/N/34AWM/ID"
+	},
+	{
+		"bomSKU": "R125",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R125/W/33PMWIC7/C15/FL"
+	},
+	{
+		"bomSKU": "R127",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R127/W/FL"
+	},
+	{
+		"bomSKU": "R128",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R128/W/FL"
+	},
+	{
+		"bomSKU": "R129",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R129/W/AC"
+	},
+	{
+		"bomSKU": "R13",
+		"MBR": 300,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R13/N/1AB12/FX"
+	},
+	{
+		"bomSKU": "R134",
+		"MBR": 40,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R134/N/FX"
+	},
+	{
+		"bomSKU": "R14",
+		"MBR": 400,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R14/N/1AB12/FX"
+	},
+	{
+		"bomSKU": "R140",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R140/N/35AEB/FX"
+	},
+	{
+		"bomSKU": "R141",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R141/N/35AEB/FX"
+	},
+	{
+		"bomSKU": "R144",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R144/N/36PIG/ID"
+	},
+	{
+		"bomSKU": "R15",
+		"MBR": 400,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R15/N/1AB12/FX"
+	},
+	{
+		"bomSKU": "R159",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R159/N/1AB12/ID"
+	},
+	{
+		"bomSKU": "R160",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R160/N/1AB12/FX"
+	},
+	{
+		"bomSKU": "R161",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R161/N/FX"
+	},
+	{
+		"bomSKU": "R162",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R162/N/FX"
+	},
+	{
+		"bomSKU": "R163",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R163/N/FX"
+	},
+	{
+		"bomSKU": "R164",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R164/N/FX"
+	},
+	{
+		"bomSKU": "R165",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R165/N/FX"
+	},
+	{
+		"bomSKU": "R166",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R166/N/FX"
+	},
+	{
+		"bomSKU": "R167",
+		"MBR": 1,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R167/W/FL"
+	},
+	{
+		"bomSKU": "R169",
+		"MBR": 400,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R169/W/FL"
+	},
+	{
+		"bomSKU": "R17",
+		"MBR": 25,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R17/N/FX"
+	},
+	{
+		"bomSKU": "R170",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R170/W/FL"
+	},
+	{
+		"bomSKU": "R171",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R171/N/FX"
+	},
+	{
+		"bomSKU": "R172",
+		"MBR": 6,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R172/N/FL"
+	},
+	{
+		"bomSKU": "R173",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R173/W/FL"
+	},
+	{
+		"bomSKU": "R174",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R174/W/FL"
+	},
+	{
+		"bomSKU": "R175",
+		"MBR": 250,
+		"Certifications": ["Watermark"],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R175/N/ID"
+	},
+	{
+		"bomSKU": "R176",
+		"MBR": 10,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R176/N/FL"
+	},
+	{
+		"bomSKU": "R178",
+		"MBR": 10,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R178/N/FL"
+	},
+	{
+		"bomSKU": "R179",
+		"MBR": 12,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R179/N/FX"
+	},
+	{
+		"bomSKU": "R18",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R18/N/1AB12/ID"
+	},
+	{
+		"bomSKU": "R183",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R183/N/FL"
+	},
+	{
+		"bomSKU": "R184",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R184/N/PT/YD"
+	},
+	{
+		"bomSKU": "R185",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R185/N/PT/GD"
+	},
+	{
+		"bomSKU": "R186",
+		"MBR": 40,
+		"Certifications": ["Watermark"],
+		"Function": "",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R186/N/PT/BD"
+	},
+	{
+		"bomSKU": "R187",
+		"MBR": 40,
+		"Certifications": ["Watermark"],
+		"Function": "",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R187/N/PT/RD"
+	},
+	{
+		"bomSKU": "R188",
+		"MBR": 80,
+		"Certifications": ["Watermark"],
+		"Function": "",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R188/N/PT/GD"
+	},
+	{
+		"bomSKU": "R189",
+		"MBR": 250,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R189/N/FL"
+	},
+	{
+		"bomSKU": "R19",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R19/N/1AB12/ID"
+	},
+	{
+		"bomSKU": "R190",
+		"MBR": 150,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R190/N/FX"
+	},
+	{
+		"bomSKU": "R191",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R191/N/FX"
+	},
+	{
+		"bomSKU": "R192",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R192/N/FX"
+	},
+	{
+		"bomSKU": "R193",
+		"MBR": 4,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R193/W/FL"
+	},
+	{
+		"bomSKU": "R194",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R194/N/4ABS14/PT"
+	},
+	{
+		"bomSKU": "R196",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R196/W/1AB12/FL"
+	},
+	{
+		"bomSKU": "R197",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R197/W/1AB12/FL"
+	},
+	{
+		"bomSKU": "R198",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R198/W/1AB12/FL"
+	},
+	{
+		"bomSKU": "R199",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R199/W/1AB12/FL"
+	},
+	{
+		"bomSKU": "R200",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R200/N/1AB12/FX"
+	},
+	{
+		"bomSKU": "R201",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R201/N/1AB12/FX"
+	},
+	{
+		"bomSKU": "R202",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R202/N/24PSPA/FL"
+	},
+	{
+		"bomSKU": "R203",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R203/N/24PSPA/FL"
+	},
+	{
+		"bomSKU": "R204",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R204/N/FX"
+	},
+	{
+		"bomSKU": "R205",
+		"MBR": 300,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R205/N/1AB12/FX"
+	},
+	{
+		"bomSKU": "R206",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R206/N/21PFL/PT"
+	},
+	{
+		"bomSKU": "R207",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R207/N/21PFL/PT"
+	},
+	{
+		"bomSKU": "R21",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R21/N/1AB12/ID"
+	},
+	{
+		"bomSKU": "R210",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R210/N/FL"
+	},
+	{
+		"bomSKU": "R211",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R211/N/1ABWMR21/FX"
+	},
+	{
+		"bomSKU": "R212",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R212/N/FX"
+	},
+	{
+		"bomSKU": "R213",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R213/N/FX"
+	},
+	{
+		"bomSKU": "R214",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R214/N/FX"
+	},
+	{
+		"bomSKU": "R215",
+		"MBR": 60,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R215/N/FX"
+	},
+	{
+		"bomSKU": "R216",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R216/N/FX"
+	},
+	{
+		"bomSKU": "R217",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R217/W/AV"
+	},
+	{
+		"bomSKU": "R218",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R218/W/7AF0/FL"
+	},
+	{
+		"bomSKU": "R219",
+		"MBR": 5,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R219/W/7AF0/FL"
+	},
+	{
+		"bomSKU": "R22",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R22/N/1AB12/FL"
+	},
+	{
+		"bomSKU": "R220",
+		"MBR": 5,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R220/N/FX"
+	},
+	{
+		"bomSKU": "R221",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R221/N/FX"
+	},
+	{
+		"bomSKU": "R222",
+		"MBR": 1,
+		"Certifications": ["Watermark"],
+		"Function": "LeakBlock",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R222/W/LB"
+	},
+	{
+		"bomSKU": "R223",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R223/N/TRF223/AV"
+	},
+	{
+		"bomSKU": "R224",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R224/N/TRF224/AV"
+	},
+	{
+		"bomSKU": "R229",
+		"MBR": 5,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R229/N/FX"
+	},
+	{
+		"bomSKU": "R235",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R235/W/FL"
+	},
+	{
+		"bomSKU": "R236",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R236/W/FL"
+	},
+	{
+		"bomSKU": "R241",
+		"MBR": 300,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R241/N/1AB12/FX"
+	},
+	{
+		"bomSKU": "R242",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R242/N/1ABWR21/ID"
+	},
+	{
+		"bomSKU": "R244",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R244/N/1AB12/FL"
+	},
+	{
+		"bomSKU": "R245",
+		"MBR": 250,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R245/N/FX"
+	},
+	{
+		"bomSKU": "R246",
+		"MBR": 250,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R246/N/FX"
+	},
+	{
+		"bomSKU": "R247",
+		"MBR": 250,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R247/N/FX"
+	},
+	{
+		"bomSKU": "R249",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R249/N/FL"
+	},
+	{
+		"bomSKU": "R25",
+		"MBR": 5,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R25/N/20PF0/FL"
+	},
+	{
+		"bomSKU": "R250",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R250/N/1AB12/PT"
+	},
+	{
+		"bomSKU": "R251",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R251/W/AC"
+	},
+	{
+		"bomSKU": "R253",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R253/W/FL"
+	},
+	{
+		"bomSKU": "R254",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R254/N/FX"
+	},
+	{
+		"bomSKU": "R255",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R255/N/1AB12/FL"
+	},
+	{
+		"bomSKU": "R256",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R256/N/FX"
+	},
+	{
+		"bomSKU": "R258",
+		"MBR": 5,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R258/W/FL"
+	},
+	{
+		"bomSKU": "R260",
+		"MBR": 5,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R260/N/FX"
+	},
+	{
+		"bomSKU": "R261",
+		"MBR": 30,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R261/N/FL"
+	},
+	{
+		"bomSKU": "R262",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R262/N/FL"
+	},
+	{
+		"bomSKU": "R263",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R263/N/19PDGB/FX"
+	},
+	{
+		"bomSKU": "R264",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R264/N/FX"
+	},
+	{
+		"bomSKU": "R265",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R265/W/FL"
+	},
+	{
+		"bomSKU": "R27",
+		"MBR": 150,
+		"Certifications": ["Watermark"],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R27/N/2ABUA13/PT"
+	},
+	{
+		"bomSKU": "R28",
+		"MBR": 150,
+		"Certifications": ["Watermark"],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R28/N/2ABUA13/PT"
+	},
+	{
+		"bomSKU": "R30",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R30/N/2ABUA13/FL"
+	},
+	{
+		"bomSKU": "R31",
+		"MBR": 30,
+		"Certifications": ["Watermark"],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R31/N/2ABUA13/ID"
+	},
+	{
+		"bomSKU": "R32",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R32/W/20PF0/FL"
+	},
+	{
+		"bomSKU": "R33",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R33/N/2ABUA13/FL"
+	},
+	{
+		"bomSKU": "R34",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R34/N/4ABS14/FL"
+	},
+	{
+		"bomSKU": "R35",
+		"MBR": 25,
+		"Certifications": ["Watermark"],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R35/N/4ABS14/PT"
+	},
+	{
+		"bomSKU": "R36",
+		"MBR": 25,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R36/N/4ABS14/FX"
+	},
+	{
+		"bomSKU": "R37",
+		"MBR": 300,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R37/N/4ABS14/FX"
+	},
+	{
+		"bomSKU": "R38",
+		"MBR": 100,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R38/N/FX"
+	},
+	{
+		"bomSKU": "R40",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R40/N/17PDGT/FX"
+	},
+	{
+		"bomSKU": "R42",
+		"MBR": 10,
+		"Certifications": ["Watermark"],
+		"Function": "Identification",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R42/N/4ABS14/ID"
+	},
+	{
+		"bomSKU": "R43",
+		"MBR": 4,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R43/N/4ABS14/FX"
+	},
+	{
+		"bomSKU": "R44",
+		"MBR": 25,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R44/W/6AC3/FL"
+	},
+	{
+		"bomSKU": "R45",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R45/W/6AC3/FL"
+	},
+	{
+		"bomSKU": "R48",
+		"MBR": 80,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R48/N/30PCWS2/FL"
+	},
+	{
+		"bomSKU": "R49",
+		"MBR": 25,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R49/W/FL"
+	},
+	{
+		"bomSKU": "R50",
+		"MBR": 24,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R50/W/FL"
+	},
+	{
+		"bomSKU": "R51",
+		"MBR": 5,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R51/W/7AF0/FL"
+	},
+	{
+		"bomSKU": "R52",
+		"MBR": 300,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R52/N/FX"
+	},
+	{
+		"bomSKU": "R53",
+		"MBR": 0.5,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R53/N/FX"
+	},
+	{
+		"bomSKU": "R54",
+		"MBR": 1,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R54/W/FL"
+	},
+	{
+		"bomSKU": "R55",
+		"MBR": 2,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R55/W/9AFT/FL"
+	},
+	{
+		"bomSKU": "R59",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R59/W/10ADG/FL"
+	},
+	{
+		"bomSKU": "R60",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R60/N/10ADG/FX"
+	},
+	{
+		"bomSKU": "R64",
+		"MBR": 90,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R64/W/FL"
+	},
+	{
+		"bomSKU": "R66",
+		"MBR": 20,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R66/N/17PDGT/AV"
+	},
+	{
+		"bomSKU": "R67",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R67/N/TRF67/FL"
+	},
+	{
+		"bomSKU": "R69",
+		"MBR": 500,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R69/W/AV"
+	},
+	{
+		"bomSKU": "R71",
+		"MBR": 500,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R71/W/AV"
+	},
+	{
+		"bomSKU": "R72",
+		"MBR": 500,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R72/W/AV"
+	},
+	{
+		"bomSKU": "R73",
+		"MBR": 306,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R73/W/12PTF/AV"
+	},
+	{
+		"bomSKU": "R74",
+		"MBR": 500,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R74/W/17PDGT/FL"
+	},
+	{
+		"bomSKU": "R75",
+		"MBR": 400,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R75/W/AV"
+	},
+	{
+		"bomSKU": "R77",
+		"MBR": 40,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R77/N/TRF77/AV"
+	},
+	{
+		"bomSKU": "R82",
+		"MBR": 39,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R82/W/FL"
+	},
+	{
+		"bomSKU": "R83",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R83/N/FX"
+	},
+	{
+		"bomSKU": "R86",
+		"MBR": 300,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R86/N/FX"
+	},
+	{
+		"bomSKU": "R87",
+		"MBR": 150,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R87/W/FL"
+	},
+	{
+		"bomSKU": "R92",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R92/N/24PSPA/FL"
+	},
+	{
+		"bomSKU": "R93",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Fixture",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R93/N/24PSPA/FX"
+	},
+	{
+		"bomSKU": "R94",
+		"MBR": 10,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R94/W/16PVA/FL"
+	},
+	{
+		"bomSKU": "R95",
+		"MBR": 10,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R95/W/16PVA/FL"
+	},
+	{
+		"bomSKU": "R96",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R96/N/TRF96/FL"
+	},
+	{
+		"bomSKU": "R97",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R97/N/21PFL/PT"
+	},
+	{
+		"bomSKU": "R99",
+		"MBR": 50,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "R99/N/25PWPC/FL"
+	},
+	{
+		"bomSKU": "S96",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "S96/TRF96/POL"
+	},
+	{
+		"bomSKU": "TRF127",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "TRF127/W/FL"
+	},
+	{
+		"bomSKU": "TRF128",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "TRF128/W/FL"
+	},
+	{
+		"bomSKU": "TRF184",
+		"MBR": 250,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "TRF184/N/FL"
+	},
+	{
+		"bomSKU": "TRF206",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "TRF206/N/24PSPA/FL"
+	},
+	{
+		"bomSKU": "TRF24",
+		"MBR": 12,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "TRF24/N/1AB12/FL"
+	},
+	{
+		"bomSKU": "TRF65",
+		"MBR": 300,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "TRF65/W/12PTF/AVR"
+	},
+	{
+		"bomSKU": "TRF67",
+		"MBR": 500,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "TRF67/W/12PTF/AV"
+	},
+	{
+		"bomSKU": "TRF77",
+		"MBR": 500,
+		"Certifications": ["Watermark"],
+		"Function": "Activation",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "TRF77/N/12PTF/AV"
+	},
+	{
+		"bomSKU": "TRF79",
+		"MBR": 0,
+		"Certifications": ["Watermark"],
+		"Function": "Protection",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "TRF79/N/PT"
+	},
+	{
+		"bomSKU": "TRF80",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "TRF80/W/13PSF/FL"
+	},
+	{
+		"bomSKU": "TRF96",
+		"MBR": 200,
+		"Certifications": ["Watermark"],
+		"Function": "Flow",
+		"MBP": 0,
+		"PCTM": 0,
+		"Legacy": "TRF96/N/21PFL/FL"
+	}
+]
